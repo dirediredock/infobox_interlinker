@@ -9,3 +9,5 @@ Infobox guidelines: https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Info
 Infobox mapping: http://mappings.dbpedia.org/index.php/How_to_edit_DBpedia_Mappings
 
 The DBpedia ontology is the heart of DBpedia: https://www.dbpedia.org/resources/ontology/
+
+DBpedia atomic data unit (RDF triple): https://en.wikipedia.org/wiki/Semantic_triple
