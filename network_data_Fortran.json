@@ -1,0 +1,5220 @@
+{
+    "*Lisp": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "Common_Lisp"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C*"
+        ],
+        "true_href": "*Lisp"
+    },
+    "A+_(programming_language)": {
+        "incoming": [
+            "APL_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "K_(programming_language)"
+        ],
+        "true_href": "A+_(programming_language)"
+    },
+    "ABC_(programming_language)": {
+        "incoming": [
+            "SETL",
+            "ALGOL_68"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Python_(programming_language)"
+        ],
+        "true_href": "ABC_(programming_language)"
+    },
+    "AIMACO": {
+        "incoming": [
+            "FLOW-MATIC",
+            "COMTRAN"
+        ],
+        "match": "True",
+        "outgoing": [
+            "COBOL"
+        ],
+        "true_href": "AIMACO"
+    },
+    "ALF_(proof_assistant)": {},
+    "ALGOL": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "PL/I",
+            "Simula",
+            "Pascal_(programming_language)",
+            "C_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "true_href": "ALGOL"
+    },
+    "ALGOL_58": {
+        "incoming": [
+            "FORTRAN",
+            "Plankalk\u00fcl",
+            "Superplan"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Algol-like"
+        ],
+        "true_href": "ALGOL_58"
+    },
+    "ALGOL_60": {
+        "incoming": [
+            "ALGOL_58"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Simula",
+            "Combined_Programming_Language",
+            "Pascal_(programming_language)",
+            "Ada_(programming_language)",
+            "C_(programming_language)"
+        ],
+        "true_href": "ALGOL_60"
+    },
+    "ALGOL_68": {
+        "incoming": [
+            "ALGOL_60",
+            "ALGOL_Y"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C_(programming_language)",
+            "C++",
+            "Bourne_shell",
+            "KornShell",
+            "Bash_(Unix_shell)",
+            "Steelman_language_requirements",
+            "Ada_(programming_language)",
+            "Python_(programming_language)",
+            "Seed7",
+            "Mary_(programming_language)",
+            "S3_(programming_language)"
+        ],
+        "true_href": "ALGOL_68"
+    },
+    "ALGOL_W": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Pascal_(programming_language)",
+            "Modula-2"
+        ],
+        "true_href": "ALGOL_W"
+    },
+    "ALGOL_Y": {},
+    "AMPL": {
+        "incoming": [
+            "AWK",
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Pyomo"
+        ],
+        "true_href": "AMPL"
+    },
+    "ANSI_C": {},
+    "APL_(programming_language)": {
+        "incoming": [
+            "Mathematical_notation"
+        ],
+        "match": "True",
+        "outgoing": [
+            "A+_(programming_language)",
+            "C++",
+            "FP_(programming_language)",
+            "J_(programming_language)",
+            "K_(programming_language)",
+            "MATLAB",
+            "Nial",
+            "Polymorphic_Programming_Language",
+            "Python_(programming_language)",
+            "Q_(programming_language_from_Kx_Systems)",
+            "S_(programming_language)",
+            "Speakeasy_(computational_environment)",
+            "Wolfram_Language"
+        ],
+        "true_href": "APL_(programming_language)"
+    },
+    "APL_programming_language": {
+        "incoming": [
+            "Mathematical_notation"
+        ],
+        "match": "False",
+        "outgoing": [
+            "A+_(programming_language)",
+            "C++",
+            "FP_(programming_language)",
+            "J_(programming_language)",
+            "K_(programming_language)",
+            "MATLAB",
+            "Nial",
+            "Polymorphic_Programming_Language",
+            "Python_(programming_language)",
+            "Q_(programming_language_from_Kx_Systems)",
+            "S_(programming_language)",
+            "Speakeasy_(computational_environment)",
+            "Wolfram_Language"
+        ],
+        "true_href": "APL_(programming_language)"
+    },
+    "ARITH-MATIC": {},
+    "ARPAnet": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "ARPANET"
+    },
+    "ATS_(programming_language)": {
+        "incoming": [
+            "Dependent_ML",
+            "ML_(programming_language)",
+            "OCaml",
+            "C++"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "ATS_(programming_language)"
+    },
+    "AWK": {
+        "incoming": [
+            "C_(programming_language)",
+            "Sed",
+            "SNOBOL"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Tcl",
+            "AMPL",
+            "Perl",
+            "Korn_Shell",
+            "Lua_(programming_language)"
+        ],
+        "true_href": "AWK"
+    },
+    "AWK_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "Sed",
+            "SNOBOL"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Tcl",
+            "AMPL",
+            "Perl",
+            "Korn_Shell",
+            "Lua_(programming_language)"
+        ],
+        "true_href": "AWK"
+    },
+    "ActionScript": {
+        "incoming": [
+            "JavaScript",
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Haxe"
+        ],
+        "true_href": "ActionScript"
+    },
+    "Active_Oberon": {
+        "incoming": [
+            "Oberon_(programming_language)",
+            "Object_Oberon",
+            "Oberon-2"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Active_Oberon"
+    },
+    "Active_Server_Pages": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Active_Server_Pages"
+    },
+    "Actor_model": {},
+    "Actor_model_middle_history#Actor_programming_languages": {},
+    "Ada_(programming_language)": {
+        "incoming": [
+            "ALGOL_68",
+            "Pascal_(programming_language)",
+            "Simula_67",
+            "C++",
+            "Smalltalk",
+            "Modula-2",
+            "Java_(programming_language)",
+            "Eiffel_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C++",
+            "Chapel_(programming_language)",
+            "Drago_(programming_language)",
+            "D_(programming_language)",
+            "Eiffel_(programming_language)",
+            "Java_(programming_language)",
+            "Nim_(programming_language)",
+            "ParaSail_(programming_language)",
+            "PL/SQL",
+            "PL/pgSQL",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "Seed7",
+            "ParaSail_(programming_language)#Description",
+            "SQL/PSM",
+            "VHDL"
+        ],
+        "true_href": "Ada_(programming_language)"
+    },
+    "Agda_(programming_language)": {
+        "incoming": [
+            "Coq",
+            "Epigram_(programming_language)",
+            "Haskell_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Idris_(programming_language)"
+        ],
+        "true_href": "Agda_(programming_language)"
+    },
+    "AgentCubes": {
+        "incoming": [
+            "AgentSheets",
+            "Lisp_(programming_language)",
+            "Logo_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Scratch_(programming_language)"
+        ],
+        "true_href": "AgentCubes"
+    },
+    "AgentSheets": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "Logo_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Etoys_(programming_language)",
+            "Scratch_(programming_language)"
+        ],
+        "true_href": "AgentSheets"
+    },
+    "Agora_(programming_language)": {},
+    "Akka_(toolkit)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Akka_(toolkit)"
+    },
+    "Albatross_(programming_language)": {},
+    "Alef_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "Newsqueak"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Limbo_(programming_language)",
+            "Rust_(programming_language)",
+            "Go_(programming_language)"
+        ],
+        "true_href": "Alef_(programming_language)"
+    },
+    "Algol-like": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [
+            "PL/I",
+            "Simula",
+            "Pascal_(programming_language)",
+            "C_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "true_href": "ALGOL"
+    },
+    "Alice_(programming_language)": {
+        "incoming": [
+            "ML_(programming_language)",
+            "Oz_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Alice_(programming_language)"
+    },
+    "Alma-0": {
+        "incoming": [
+            "Modula-2"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Alma-0"
+    },
+    "Alphard_(programming_language)": {},
+    "Apache_Groovy": {
+        "incoming": [
+            "Java_(programming_language)",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Kotlin_(programming_language)"
+        ],
+        "true_href": "Apache_Groovy"
+    },
+    "AppleScript": {
+        "incoming": [
+            "Natural_language_programming",
+            "HyperTalk"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "AppleScript"
+    },
+    "Argus_(programming_language)": {},
+    "Asm.js": {
+        "incoming": [
+            "JavaScript"
+        ],
+        "match": "True",
+        "outgoing": [
+            "WebAssembly"
+        ],
+        "true_href": "Asm.js"
+    },
+    "AssemblyScript": {
+        "incoming": [
+            "JavaScript",
+            "TypeScript",
+            "WebAssembly"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "AssemblyScript"
+    },
+    "Assembly_language": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Assembly_language"
+    },
+    "AtScript": {},
+    "AutoLisp": {
+        "incoming": [
+            "Lisp_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "AutoLISP"
+    },
+    "BASIC": {
+        "incoming": [
+            "ALGOL_60",
+            "Fortran",
+            "JOSS"
+        ],
+        "match": "True",
+        "outgoing": [
+            "COMAL",
+            "Visual_Basic_(classic)",
+            "Visual_Basic_.NET",
+            "GRASS_(programming_language)"
+        ],
+        "true_href": "BASIC"
+    },
+    "BASIC-PLUS": {
+        "incoming": [
+            "Dartmouth_BASIC",
+            "Tymshare_SUPER_BASIC"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Microsoft_BASIC"
+        ],
+        "true_href": "BASIC-PLUS"
+    },
+    "BBN_LISP": {},
+    "BCPL": {
+        "incoming": [
+            "CPL_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "B_(programming_language)",
+            "C_(programming_language)",
+            "Go_(programming_language)"
+        ],
+        "true_href": "BCPL"
+    },
+    "BETA_(programming_language)": {
+        "incoming": [
+            "Simula"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "BETA_(programming_language)"
+    },
+    "B_(programming_language)": {
+        "incoming": [
+            "BCPL",
+            "PL/I",
+            "TMG_(language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C_(programming_language)"
+        ],
+        "true_href": "B_(programming_language)"
+    },
+    "Bash_(Unix_shell)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Bash_(Unix_shell)"
+    },
+    "Basic4android": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Basic4android"
+    },
+    "Basic4ppc": {
+        "incoming": [
+            "Visual_Basic"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Basic4ppc"
+    },
+    "BeanShell": {
+        "incoming": [
+            "Java_(programming_language)",
+            "JavaScript",
+            "Perl"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "BeanShell"
+    },
+    "Begriffsschrift": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Begriffsschrift"
+    },
+    "Bluespec,_Inc.": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Bluespec"
+    },
+    "Boo_(programming_language)": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Python_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Genie_(programming_language)",
+            "Vala_(programming_language)"
+        ],
+        "true_href": "Boo_(programming_language)"
+    },
+    "Bourne_shell": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Bourne_shell"
+    },
+    "Boxer_(programming_environment)": {},
+    "Bs_(programming_language)": {
+        "incoming": [
+            "BASIC",
+            "SNOBOL",
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Bs_(programming_language)"
+    },
+    "Burroughs_B5000": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Executive_Systems_Problem_Oriented_Language",
+            "Burroughs_MCP",
+            "NEWP"
+        ],
+        "true_href": "Burroughs_large_systems"
+    },
+    "Burroughs_MCP": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Burroughs_MCP"
+    },
+    "C*": {
+        "incoming": [
+            "ANSI_C",
+            "*Lisp"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Dataparallel-C"
+        ],
+        "true_href": "C*"
+    },
+    "C++": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "ALGOL_68",
+            "BCPL",
+            "C_(programming_language)",
+            "CLU_(programming_language)",
+            "ML_(programming_language)",
+            "Mesa_(programming_language)",
+            "Modula-2",
+            "Simula",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ada_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "C99",
+            "Chapel_(programming_language)",
+            "Clojure",
+            "D_(programming_language)",
+            "Java_(programming_language)",
+            "JS++",
+            "Lua_(programming_language)",
+            "Nim_(programming_language)",
+            "Objective-C++",
+            "Perl",
+            "PHP",
+            "Python_(programming_language)",
+            "Rust_(programming_language)",
+            "Seed7"
+        ],
+        "true_href": "C++"
+    },
+    "C++11": {},
+    "C++14": {},
+    "C++17": {},
+    "C++20": {},
+    "C++_(programming_language)": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "ALGOL_68",
+            "BCPL",
+            "C_(programming_language)",
+            "CLU_(programming_language)",
+            "ML_(programming_language)",
+            "Mesa_(programming_language)",
+            "Modula-2",
+            "Simula",
+            "Smalltalk"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Ada_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "C99",
+            "Chapel_(programming_language)",
+            "Clojure",
+            "D_(programming_language)",
+            "Java_(programming_language)",
+            "JS++",
+            "Lua_(programming_language)",
+            "Nim_(programming_language)",
+            "Objective-C++",
+            "Perl",
+            "PHP",
+            "Python_(programming_language)",
+            "Rust_(programming_language)",
+            "Seed7"
+        ],
+        "true_href": "C++"
+    },
+    "C--": {
+        "incoming": [
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "C--"
+    },
+    "C/AL": {
+        "incoming": [
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "C/AL"
+    },
+    "C99": {},
+    "CAL_(programming_language)": {},
+    "CLIPS": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "CLIPS"
+    },
+    "CLU_(programming_language)": {
+        "incoming": [
+            "ALGOL_60",
+            "Lisp_(programming_language)",
+            "Simula",
+            "Alphard_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ada_(programming_language)",
+            "Argus_(programming_language)",
+            "C++",
+            "Lua_(programming_language)",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "Sather",
+            "Swift_(programming_language)"
+        ],
+        "true_href": "CLU_(programming_language)"
+    },
+    "CMS-2_(programming_language)": {
+        "incoming": [
+            "CS-1_(programming_language)",
+            "Fortran",
+            "JOVIAL",
+            "PL/I"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "CMS-2"
+    },
+    "CMS_EXEC": {},
+    "COBOL": {
+        "incoming": [
+            "AIMACO",
+            "COMTRAN",
+            "FACT_computer_language",
+            "FLOW-MATIC",
+            "C++",
+            "Eiffel_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "CobolScript",
+            "EGL_(programming_language)",
+            "PL/I",
+            "Programming_Language_for_Business"
+        ],
+        "true_href": "COBOL"
+    },
+    "COMAL": {
+        "incoming": [
+            "BASIC",
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "COMAL"
+    },
+    "COMIT": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "SNOBOL"
+        ],
+        "true_href": "COMIT"
+    },
+    "COMTRAN": {
+        "incoming": [
+            "FLOW-MATIC"
+        ],
+        "match": "True",
+        "outgoing": [
+            "COBOL"
+        ],
+        "true_href": "COMTRAN"
+    },
+    "COWSEL": {
+        "incoming": [
+            "Combined_Programming_Language",
+            "Lisp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "POP-2"
+        ],
+        "true_href": "COWSEL"
+    },
+    "CPL_(programming_language)": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [
+            "BCPL",
+            "POP-2"
+        ],
+        "true_href": "CPL_(programming_language)"
+    },
+    "CS-1_(programming_language)": {},
+    "C_(programming_language)": {
+        "incoming": [
+            "B_(programming_language)",
+            "BCPL",
+            "CPL_(programming_language)",
+            "ALGOL_68",
+            "Assembly_language",
+            "PL/I",
+            "FORTRAN"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Category:C_programming_language_family",
+            "AMPL",
+            "AWK",
+            "C_shell",
+            "C++",
+            "C--",
+            "C_Sharp_(programming_language)",
+            "Objective-C",
+            "D_(programming_language)",
+            "Go_(programming_language)",
+            "Java_(programming_language)",
+            "JavaScript",
+            "JS++",
+            "Julia_(programming_language)",
+            "Limbo_(programming_language)",
+            "LPC_(programming_language)",
+            "Perl",
+            "PHP",
+            "Pike_(programming_language)",
+            "Processing_(programming_language)",
+            "Python_(programming_language)",
+            "Rust_(programming_language)",
+            "Seed7",
+            "Vala_(programming_language)",
+            "Verilog",
+            "Nim_(programming_language)",
+            "Zig_(programming_language)"
+        ],
+        "true_href": "C_(programming_language)"
+    },
+    "C_Sharp_(programming_language)": {
+        "incoming": [
+            "C++",
+            "C\u03c9",
+            "Eiffel_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Haskell_(programming_language)",
+            "Scala_(programming_language)",
+            "Icon_(programming_language)",
+            "J_Sharp",
+            "Visual_J++",
+            "Java_(programming_language)",
+            "ML_(programming_language)",
+            "Modula-3",
+            "Object_Pascal",
+            "Visual_Basic"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Chapel_(programming_language)",
+            "Clojure",
+            "Crystal_(programming_language)",
+            "D_(programming_language)",
+            "J_Sharp",
+            "Dart_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Hack_(programming_language)",
+            "Java_(programming_language)",
+            "Kotlin_(programming_language)",
+            "Nemerle",
+            "Oxygene_(programming_language)",
+            "Rust_(programming_language)",
+            "Swift_(programming_language)",
+            "Vala_(programming_language)",
+            "TypeScript"
+        ],
+        "true_href": "C_Sharp_(programming_language)"
+    },
+    "C_shell": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "C_shell"
+    },
+    "Cach\u00e9_ObjectScript": {
+        "incoming": [
+            "MUMPS"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Cach\u00e9_ObjectScript"
+    },
+    "Cadence_SKILL": {
+        "incoming": [
+            "Scheme_(programming_language)",
+            "Common_Lisp",
+            "Common_Lisp_Object_System"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Cadence_SKILL"
+    },
+    "Caml": {
+        "incoming": [
+            "ML_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "OCaml"
+        ],
+        "true_href": "Caml"
+    },
+    "Cat_(programming_language)": {},
+    "Category:C_programming_language_family": {},
+    "Catrobat": {
+        "incoming": [
+            "Scratch_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Catrobat"
+    },
+    "Cayenne_(programming_language)": {},
+    "Cedar_(programming_language)": {
+        "incoming": [
+            "ALGOL"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Java_(programming_language)",
+            "Modula-2",
+            "Cedar_(programming_language)",
+            "PostScript"
+        ],
+        "true_href": "Mesa_(programming_language)"
+    },
+    "Ceylon_(programming_language)": {
+        "incoming": [
+            "Java_(programming_language)",
+            "Scala_(programming_language)",
+            "Smalltalk",
+            "ML_(programming_language)",
+            "Lisp_(programming_language)",
+            "Whiley_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Ceylon_(programming_language)"
+    },
+    "Chapel_(programming_language)": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "C_(programming_language)",
+            "Fortran",
+            "C++",
+            "Java_(programming_language)",
+            "High_Performance_Fortran",
+            "ZPL_(programming_language)",
+            "Cray_MTA",
+            "Cray_XMT"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Chapel_(programming_language)"
+    },
+    "Chef_(software)": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Progress_Chef"
+    },
+    "Chisel_(programming_language)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Chisel_(programming_language)"
+    },
+    "Classic_Visual_Basic": {
+        "incoming": [
+            "BASIC"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Visual_Basic_.NET",
+            "Windows_Forms",
+            "Gambas",
+            "Xojo",
+            "Basic4ppc",
+            "Basic4android",
+            "NS_Basic"
+        ],
+        "true_href": "Visual_Basic_(classic)"
+    },
+    "Clean_(programming_language)": {
+        "incoming": [
+            "tps://foldoc.org/Lean",
+            "Miranda_(programming_language)",
+            "Haskell_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Haskell_(programming_language)",
+            "Idris_(programming_language)"
+        ],
+        "true_href": "Clean_(programming_language)"
+    },
+    "Clojure": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "C++",
+            "Common_Lisp",
+            "Erlang_(programming_language)",
+            "Haskell_(programming_language)",
+            "Java_(programming_language)",
+            "ML_(programming_language)",
+            "Prolog",
+            "Racket_(programming_language)",
+            "Ruby_(programming_language)",
+            "Scheme_(programming_language)",
+            "Wolfram_Language"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Elixir_(programming_language)",
+            "Hy",
+            "LFE_(programming_language)"
+        ],
+        "true_href": "Clojure"
+    },
+    "Clojure_(programming_language)": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "C++",
+            "Common_Lisp",
+            "Erlang_(programming_language)",
+            "Haskell_(programming_language)",
+            "Java_(programming_language)",
+            "ML_(programming_language)",
+            "Prolog",
+            "Racket_(programming_language)",
+            "Ruby_(programming_language)",
+            "Scheme_(programming_language)",
+            "Wolfram_Language"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Elixir_(programming_language)",
+            "Hy",
+            "LFE_(programming_language)"
+        ],
+        "true_href": "Clojure"
+    },
+    "CobolScript": {},
+    "Cobra_(programming_language)": {
+        "incoming": [
+            "Python_(programming_language)",
+            "Eiffel_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "Objective-C"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Cobra_(programming_language)"
+    },
+    "CoffeeScript": {
+        "incoming": [
+            "Haskell_(programming_language)",
+            "JavaScript",
+            "Perl",
+            "Wikipedia:Citation_needed",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "YAML"
+        ],
+        "match": "True",
+        "outgoing": [
+            "MoonScript",
+            "LiveScript_(programming_language)"
+        ],
+        "true_href": "CoffeeScript"
+    },
+    "Combined_Programming_Language": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "False",
+        "outgoing": [
+            "BCPL",
+            "POP-2"
+        ],
+        "true_href": "CPL_(programming_language)"
+    },
+    "Common_Lisp": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "Lisp_Machine_Lisp",
+            "Maclisp",
+            "Scheme_(programming_language)",
+            "Interlisp"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Clojure",
+            "Dylan_(programming_language)",
+            "Emacs_Lisp",
+            "EuLisp",
+            "ISLISP",
+            "*Lisp",
+            "AutoLisp",
+            "Julia_(programming_language)",
+            "Moose_(Perl)",
+            "R_(programming_language)",
+            "Cadence_SKILL",
+            "SubL"
+        ],
+        "true_href": "Common_Lisp"
+    },
+    "Common_Lisp_Object_System": {},
+    "Communicating_Sequential_Processes": {},
+    "Communicating_sequential_processes": {},
+    "Component_Pascal": {
+        "incoming": [
+            "Pascal_(programming_language)",
+            "Oberon_(programming_language)",
+            "Oberon-2"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Component_Pascal"
+    },
+    "Concepts_(C++)": {},
+    "Concurrent_Euclid_(programming_language)": {
+        "incoming": [
+            "Euclid_(programming_language)",
+            "Communicating_Sequential_Processes"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Turing_Plus"
+        ],
+        "true_href": "Concurrent_Euclid"
+    },
+    "Constraint_Handling_Rules": {
+        "incoming": [
+            "Prolog"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Constraint_Handling_Rules"
+    },
+    "Contextual_Query_Language": {},
+    "Control_Language": {
+        "incoming": [
+            "Job_Control_Language",
+            "PL/I"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Windows_PowerShell"
+        ],
+        "true_href": "Control_Language"
+    },
+    "Cool_(programming_language)": {
+        "incoming": [
+            "Java_(programming_language)",
+            "ML_(programming_language)",
+            "Pascal_(programming_language)",
+            "Sather"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Cool_(programming_language)"
+    },
+    "Coq": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Coq"
+    },
+    "Coral_66": {
+        "incoming": [
+            "ALGOL",
+            "JOVIAL",
+            "Fortran"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "CORAL"
+    },
+    "Cray_MTA": {},
+    "Cray_XMT": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Cray_XMT"
+    },
+    "Croquet_Project": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Croquet_OS"
+    },
+    "Crystal_(programming_language)": {
+        "incoming": [
+            "Ruby_(programming_language)",
+            "C_(programming_language)",
+            "Rust_(programming_language)",
+            "Go_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "Python_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Crystal_(programming_language)"
+    },
+    "Curry_(programming_language)": {
+        "incoming": [
+            "Haskell_(programming_language)",
+            "Prolog_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Curry_(programming_language)"
+    },
+    "Cyclone_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Rust_(programming_language)",
+            "Project_Verona"
+        ],
+        "true_href": "Cyclone_(programming_language)"
+    },
+    "C\u03c9": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Polyphonic_C_sharp"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C_Sharp_(programming_language)",
+            "Language_Integrated_Query",
+            "Joins_(concurrency_library)"
+        ],
+        "true_href": "C\u03c9"
+    },
+    "DARSIMCO": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "DOPE_(Dartmouth_Oversimplified_Programming_Experiment)",
+            "Dartmouth_BASIC"
+        ],
+        "true_href": "DARSIMCO"
+    },
+    "DIGITAL_Command_Language": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "Windows_PowerShell"
+        ],
+        "true_href": "DIGITAL_Command_Language"
+    },
+    "DOPE_(Dartmouth_Oversimplified_Programming_Experiment)": {
+        "incoming": [
+            "DARSIMCO",
+            "Dartmouth_ALGOL_30",
+            "Fortran"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Dartmouth_BASIC"
+        ],
+        "true_href": "DOPE_(Dartmouth_Oversimplified_Programming_Experiment)"
+    },
+    "D_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "C++",
+            "C_Sharp_(programming_language)",
+            "Eiffel_(programming_language)",
+            "Java_(programming_language)",
+            "Python_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Genie_(programming_language)",
+            "Qore_(programming_language)",
+            "Swift_(programming_language)",
+            "Vala_(programming_language)",
+            "C++11",
+            "C++14",
+            "C++17",
+            "C++20",
+            "Go_(programming_language)",
+            "C_Sharp_(programming_language)"
+        ],
+        "true_href": "D_(programming_language)"
+    },
+    "D_language": {
+        "incoming": [
+            "C_(programming_language)",
+            "C++",
+            "C_Sharp_(programming_language)",
+            "Eiffel_(programming_language)",
+            "Java_(programming_language)",
+            "Python_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Genie_(programming_language)",
+            "Qore_(programming_language)",
+            "Swift_(programming_language)",
+            "Vala_(programming_language)",
+            "C++11",
+            "C++14",
+            "C++17",
+            "C++20",
+            "Go_(programming_language)",
+            "C_Sharp_(programming_language)"
+        ],
+        "true_href": "D_(programming_language)"
+    },
+    "Dafny_(programming_language)": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Dafny"
+    },
+    "Dart_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "C++_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "Erlang_(programming_language)",
+            "Java_(programming_language)",
+            "JavaScript",
+            "Ruby_(programming_language)",
+            "Smalltalk",
+            "Strongtalk",
+            "TypeScript"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Dart_(programming_language)"
+    },
+    "Dartmouth_ALGOL_30": {
+        "incoming": [
+            "ALGOL_58",
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Dartmouth_Time_Sharing_System"
+        ],
+        "true_href": "Dartmouth_ALGOL_30"
+    },
+    "Dartmouth_BASIC": {
+        "incoming": [
+            "Fortran",
+            "ALGOL"
+        ],
+        "match": "True",
+        "outgoing": [
+            "List_of_BASIC_dialects"
+        ],
+        "true_href": "Dartmouth_BASIC"
+    },
+    "Dartmouth_Time_Sharing_System": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Dartmouth_Time_Sharing_System"
+    },
+    "Datalog": {
+        "incoming": [
+            "Prolog"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Datalog"
+    },
+    "Dataparallel-C": {},
+    "Delphi_(Programming_Language)": {},
+    "Dependent_ML": {},
+    "Donald_Knuth": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Donald_Knuth"
+    },
+    "Drago_(programming_language)": {},
+    "Dylan_(programming_language)": {
+        "incoming": [
+            "Common_Lisp_Object_System",
+            "ALGOL",
+            "Scheme_(programming_language)",
+            "EuLisp"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Lasso_(programming_language)",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "Julia_(programming_language)"
+        ],
+        "true_href": "Dylan_(programming_language)"
+    },
+    "Dylan_programming_language": {
+        "incoming": [
+            "Common_Lisp_Object_System",
+            "ALGOL",
+            "Scheme_(programming_language)",
+            "EuLisp"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Lasso_(programming_language)",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "Julia_(programming_language)"
+        ],
+        "true_href": "Dylan_(programming_language)"
+    },
+    "ECMAScript": {
+        "incoming": [
+            "Self_(programming_language)",
+            "HyperTalk",
+            "AWK",
+            "C_(programming_language)",
+            "CoffeeScript",
+            "Perl",
+            "Python_(programming_language)",
+            "Java_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "ECMAScript"
+    },
+    "EGL_(programming_language)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "EGL_(programming_language)"
+    },
+    "EISPACK": {},
+    "EXEC_2": {},
+    "E_(programming_language)": {
+        "incoming": [
+            "Joule_(programming_language)",
+            "tp://erights.org/history/original-e/index.html",
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Pony_(programming_language)"
+        ],
+        "true_href": "E_(programming_language)"
+    },
+    "Ease_(programming_language)": {
+        "incoming": [
+            "Occam_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Ease_(programming_language)"
+    },
+    "EcmaScript": {
+        "incoming": [
+            "Self_(programming_language)",
+            "HyperTalk",
+            "AWK",
+            "C_(programming_language)",
+            "CoffeeScript",
+            "Perl",
+            "Python_(programming_language)",
+            "Java_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "ECMAScript"
+    },
+    "Ed_(text_editor)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Ed_(text_editor)"
+    },
+    "Eiffel_(programming_language)": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "Simula",
+            "Z_notation"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ada_(programming_language)",
+            "Albatross_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "D_(programming_language)",
+            "Java_(programming_language)",
+            "Racket_(programming_language)",
+            "Ruby_(programming_language)",
+            "Sather",
+            "Scala_(programming_language)"
+        ],
+        "true_href": "Eiffel_(programming_language)"
+    },
+    "Elixir_(programming_language)": {
+        "incoming": [
+            "Clojure",
+            "Erlang_(programming_language)",
+            "Ruby_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "LFE_(programming_language)"
+        ],
+        "true_href": "Elixir_(programming_language)"
+    },
+    "Elm_(programming_language)": {
+        "incoming": [
+            "Haskell_(programming_language)",
+            "Standard_ML",
+            "OCaml",
+            "F_Sharp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Redux_(JavaScript_library)",
+            "Vue.js#Official_libraries"
+        ],
+        "true_href": "Elm_(programming_language)"
+    },
+    "Emacs_Lisp": {
+        "incoming": [
+            "Common_Lisp",
+            "Maclisp"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Emacs_Lisp"
+    },
+    "Epigram_(programming_language)": {
+        "incoming": [
+            "ALF_(proof_assistant)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Agda_(programming_language)",
+            "Idris_(programming_language)"
+        ],
+        "true_href": "Epigram_(programming_language)"
+    },
+    "Erlang_(programming_language)": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "PLEX_(programming_language)",
+            "Prolog",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Akka_(toolkit)",
+            "Clojure",
+            "Dart_(programming_language)",
+            "Elixir_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Opa_(programming_language)",
+            "Oz_(programming_language)",
+            "Reia_(programming_language)",
+            "Rust_(programming_language)",
+            "Scala_(programming_language)",
+            "Go_(programming_language)"
+        ],
+        "true_href": "Erlang_(programming_language)"
+    },
+    "Escher_(programming_language)": {
+        "incoming": [
+            "Simple_theory_of_types"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Escher_(programming_language)"
+    },
+    "Etoys_(programming_language)": {
+        "incoming": [
+            "Logo_(programming_language)",
+            "Smalltalk",
+            "HyperCard",
+            "StarLogo",
+            "AgentSheets"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Croquet_Project",
+            "Scratch_(programming_language)"
+        ],
+        "true_href": "Etoys_(programming_language)"
+    },
+    "EuLisp": {
+        "incoming": [
+            "Common_Lisp",
+            "InterLisp",
+            "LeLisp",
+            "Scheme_(programming_language)",
+            "T_(programming_language)",
+            "Common_Lisp_Object_System",
+            "ObjVlisp",
+            "Oaklisp",
+            "Standard_ML",
+            "Haskell_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Dylan_(programming_language)",
+            "ISLISP"
+        ],
+        "true_href": "EuLisp"
+    },
+    "Euclid_(programming_language)": {
+        "incoming": [
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Mesa_(programming_language)",
+            "Concurrent_Euclid_(programming_language)",
+            "Turing_(programming_language)"
+        ],
+        "true_href": "Euclid_(programming_language)"
+    },
+    "Euler_(programming_language)": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Euler_(programming_language)"
+    },
+    "Excel_function": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Microsoft_Excel"
+    },
+    "Excel_macro": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Microsoft_Excel"
+    },
+    "Executive_Systems_Problem_Oriented_Language": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [
+            "NEWP"
+        ],
+        "true_href": "Executive_Systems_Problem_Oriented_Language"
+    },
+    "F*_(programming_language)": {
+        "incoming": [
+            "Coq",
+            "Dafny_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Lean_(proof_assistant)",
+            "OCaml",
+            "Standard_ML"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "F*_(programming_language)"
+    },
+    "FACT_computer_language": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [
+            "COBOL"
+        ],
+        "true_href": "FACT_(computer_language)"
+    },
+    "FLOW-MATIC": {
+        "incoming": [
+            "ARITH-MATIC",
+            "Laning_and_Zierler_system"
+        ],
+        "match": "True",
+        "outgoing": [
+            "MATH-MATIC",
+            "AIMACO",
+            "COBOL"
+        ],
+        "true_href": "FLOW-MATIC"
+    },
+    "FL_(programming_language)": {
+        "incoming": [
+            "FP_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "FL_(programming_language)"
+    },
+    "FOCAL_(programming_language)": {
+        "incoming": [
+            "JOSS"
+        ],
+        "match": "True",
+        "outgoing": [
+            "BASIC-PLUS"
+        ],
+        "true_href": "FOCAL_(programming_language)"
+    },
+    "FORTRAN": {
+        "incoming": [
+            "Speedcoding"
+        ],
+        "match": "False",
+        "outgoing": [
+            "ALGOL_58",
+            "BASIC",
+            "C_(programming_language)",
+            "Chapel_(programming_language)",
+            "CMS-2_(programming_language)",
+            "DOPE_(Dartmouth_Oversimplified_Programming_Experiment)",
+            "Fortress_(programming_language)",
+            "PL/I",
+            "PACT_I",
+            "MUMPS",
+            "IDL_(programming_language)",
+            "Ratfor"
+        ],
+        "true_href": "Fortran"
+    },
+    "FP_(programming_language)": {
+        "incoming": [
+            "APL_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "FL_(programming_language)",
+            "Haskell_(programming_language)"
+        ],
+        "true_href": "FP_(programming_language)"
+    },
+    "F_Sharp_(programming_language)": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Erlang_(programming_language)",
+            "Haskell_(programming_language)",
+            "ML_(programming_language)",
+            "OCaml",
+            "Python_(programming_language)",
+            "Scala_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C_Sharp_(programming_language)",
+            "Elm_(programming_language)",
+            "F*_(programming_language)",
+            "LiveScript_(programming_language)"
+        ],
+        "true_href": "F_Sharp_(programming_language)"
+    },
+    "Factor_(programming_language)": {
+        "incoming": [
+            "Joy_(programming_language)",
+            "Forth_(programming_language)",
+            "Lisp_(programming_language)",
+            "Self_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Factor_(programming_language)"
+    },
+    "Fantom_(programming_language)": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Java_(programming_language)",
+            "Scala_(programming_language)",
+            "Ruby_(programming_language)",
+            "Erlang_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Fantom_(programming_language)"
+    },
+    "Flix_(programming_language)": {
+        "incoming": [
+            "F_Sharp_(programming_language)",
+            "Go_(programming_language)",
+            "Haskell_(programming_language)",
+            "OCaml",
+            "Scala_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Flix_(programming_language)"
+    },
+    "Forth_(programming_language)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "Factor_(programming_language)",
+            "Joy_(programming_language)",
+            "PostScript",
+            "RPL_(programming_language)",
+            "REBOL"
+        ],
+        "true_href": "Forth_(programming_language)"
+    },
+    "Fortran": {
+        "incoming": [
+            "Speedcoding"
+        ],
+        "match": "True",
+        "outgoing": [
+            "ALGOL_58",
+            "BASIC",
+            "C_(programming_language)",
+            "Chapel_(programming_language)",
+            "CMS-2_(programming_language)",
+            "DOPE_(Dartmouth_Oversimplified_Programming_Experiment)",
+            "Fortress_(programming_language)",
+            "PL/I",
+            "PACT_I",
+            "MUMPS",
+            "IDL_(programming_language)",
+            "Ratfor"
+        ],
+        "true_href": "Fortran"
+    },
+    "Fortran_90": {
+        "incoming": [
+            "Speedcoding"
+        ],
+        "match": "False",
+        "outgoing": [
+            "ALGOL_58",
+            "BASIC",
+            "C_(programming_language)",
+            "Chapel_(programming_language)",
+            "CMS-2_(programming_language)",
+            "DOPE_(Dartmouth_Oversimplified_Programming_Experiment)",
+            "Fortress_(programming_language)",
+            "PL/I",
+            "PACT_I",
+            "MUMPS",
+            "IDL_(programming_language)",
+            "Ratfor"
+        ],
+        "true_href": "Fortran"
+    },
+    "Fortress_(programming_language)": {
+        "incoming": [
+            "Fortran",
+            "Scala_(programming_language)",
+            "Haskell_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Fortress_(programming_language)"
+    },
+    "FreeBASIC": {
+        "incoming": [
+            "QuickBASIC",
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "FreeBASIC"
+    },
+    "GNU_Octave": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "GNU_Octave"
+    },
+    "GRASS_(programming_language)": {},
+    "GT.M": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "GT.M"
+    },
+    "GW-BASIC": {
+        "incoming": [
+            "IBM_Cassette_BASIC",
+            "IBM_Disk_BASIC",
+            "IBM_BASICA"
+        ],
+        "match": "True",
+        "outgoing": [
+            "QBasic",
+            "QuickBasic",
+            "MSX_BASIC"
+        ],
+        "true_href": "GW-BASIC"
+    },
+    "Gambas": {
+        "incoming": [
+            "Visual_Basic",
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Gambas"
+    },
+    "GameMonkey_Script": {},
+    "General_Algebraic_Modeling_System": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "General_algebraic_modeling_system"
+    },
+    "Generic_Java": {},
+    "Generics_in_Java": {},
+    "Genie_(programming_language)": {
+        "incoming": [
+            "Python_(programming_language)",
+            "Boo_(programming_language)",
+            "D_(programming_language)",
+            "Object_Pascal"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Genie_(programming_language)"
+    },
+    "Go_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "Oberon-2",
+            "Limbo_(programming_language)",
+            "Active_Oberon",
+            "Communicating_sequential_processes",
+            "Pascal_(programming_language)",
+            "Oberon_(programming_language)",
+            "Smalltalk",
+            "Newsqueak",
+            "Modula-2",
+            "Alef_(programming_language)",
+            "APL_(programming_language)",
+            "BCPL",
+            "Modula",
+            "Occam_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Crystal_(programming_language)",
+            "Zig_(programming_language)"
+        ],
+        "true_href": "Go_(programming_language)"
+    },
+    "Gofer_(programming_language)": {},
+    "Google_Native_Client": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Google_Native_Client"
+    },
+    "Gosu_(programming_language)": {
+        "incoming": [
+            "Java_(programming_language)",
+            "C_Sharp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Kotlin_(programming_language)"
+        ],
+        "true_href": "Gosu_(programming_language)"
+    },
+    "Groovy_(programming_language)": {
+        "incoming": [
+            "Java_(programming_language)",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Kotlin_(programming_language)"
+        ],
+        "true_href": "Apache_Groovy"
+    },
+    "HTML": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "HTML"
+    },
+    "Hack_(programming_language)": {
+        "incoming": [
+            "PHP",
+            "OCaml",
+            "Java_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "Scala_(programming_language)",
+            "Haskell_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Hack_(programming_language)"
+    },
+    "Haskell": {
+        "incoming": [
+            "Clean_(programming_language)",
+            "FP_(programming_language)",
+            "Gofer_(programming_language)",
+            "Hope_(programming_language)",
+            "Id_(programming_language)",
+            "ISWIM",
+            "Kent_Recursive_Calculator",
+            "Lisp_(programming_language)",
+            "Miranda_(programming_language)",
+            "ML_(programming_language)",
+            "Standard_ML",
+            "Orwell_(programming_language)",
+            "SASL_(programming_language)",
+            "Scheme_(programming_language)",
+            "SISAL"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Agda_(programming_language)",
+            "Bluespec,_Inc.",
+            "C++11",
+            "Concepts_(C++)",
+            "C_Sharp_(programming_language)",
+            "Language_Integrated_Query",
+            "Wikipedia:Citation_needed",
+            "Cayenne_(programming_language)",
+            "Clean_(programming_language)",
+            "Clojure",
+            "CoffeeScript",
+            "Curry_(programming_language)",
+            "Elm_(programming_language)",
+            "Epigram_(programming_language)",
+            "Wikipedia:Citation_needed",
+            "Escher_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Hack_(programming_language)",
+            "Idris_(programming_language)",
+            "Isabelle_theorem_prover",
+            "Java_(programming_language)",
+            "Generics_in_Java",
+            "LiveScript_(programming_language)",
+            "Mercury_(programming_language)",
+            "\u03a9mega",
+            "PureScript",
+            "Python_(programming_language)",
+            "Raku_(programming_language)",
+            "Rust_(programming_language)",
+            "Scala_(programming_language)",
+            "Swift_(programming_language)",
+            "Visual_Basic_.NET"
+        ],
+        "true_href": "Haskell"
+    },
+    "Haskell_(programming_language)": {
+        "incoming": [
+            "Clean_(programming_language)",
+            "FP_(programming_language)",
+            "Gofer_(programming_language)",
+            "Hope_(programming_language)",
+            "Id_(programming_language)",
+            "ISWIM",
+            "Kent_Recursive_Calculator",
+            "Lisp_(programming_language)",
+            "Miranda_(programming_language)",
+            "ML_(programming_language)",
+            "Standard_ML",
+            "Orwell_(programming_language)",
+            "SASL_(programming_language)",
+            "Scheme_(programming_language)",
+            "SISAL"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Agda_(programming_language)",
+            "Bluespec,_Inc.",
+            "C++11",
+            "Concepts_(C++)",
+            "C_Sharp_(programming_language)",
+            "Language_Integrated_Query",
+            "Wikipedia:Citation_needed",
+            "Cayenne_(programming_language)",
+            "Clean_(programming_language)",
+            "Clojure",
+            "CoffeeScript",
+            "Curry_(programming_language)",
+            "Elm_(programming_language)",
+            "Epigram_(programming_language)",
+            "Wikipedia:Citation_needed",
+            "Escher_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Hack_(programming_language)",
+            "Idris_(programming_language)",
+            "Isabelle_theorem_prover",
+            "Java_(programming_language)",
+            "Generics_in_Java",
+            "LiveScript_(programming_language)",
+            "Mercury_(programming_language)",
+            "\u03a9mega",
+            "PureScript",
+            "Python_(programming_language)",
+            "Raku_(programming_language)",
+            "Rust_(programming_language)",
+            "Scala_(programming_language)",
+            "Swift_(programming_language)",
+            "Visual_Basic_.NET"
+        ],
+        "true_href": "Haskell"
+    },
+    "Haxe": {
+        "incoming": [
+            "EcmaScript",
+            "OCaml",
+            "Java_(programming_language)",
+            "JavaScript",
+            "C++",
+            "PHP",
+            "C_Sharp_(programming_language)",
+            "Python_(programming_language)",
+            "Lua_(programming_language)",
+            "ActionScript",
+            "NekoVM"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Haxe"
+    },
+    "Haxe_(programming_language)": {
+        "incoming": [
+            "EcmaScript",
+            "OCaml",
+            "Java_(programming_language)",
+            "JavaScript",
+            "C++",
+            "PHP",
+            "C_Sharp_(programming_language)",
+            "Python_(programming_language)",
+            "Lua_(programming_language)",
+            "ActionScript",
+            "NekoVM"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Haxe"
+    },
+    "Heinz_Rutishauser": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Heinz_Rutishauser"
+    },
+    "Hibernate_(Java)#Hibernate_Query_Language_(HQL)": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Hibernate_(framework)"
+    },
+    "High_Performance_Fortran": {},
+    "Hope_(programming_language)": {},
+    "HotSpot_(virtual_machine)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "HotSpot_(virtual_machine)"
+    },
+    "Hy": {
+        "incoming": [
+            "Kawa_(Scheme_implementation)",
+            "Clojure",
+            "Common_Lisp"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Hy"
+    },
+    "Hy_(programming_language)": {
+        "incoming": [
+            "Kawa_(Scheme_implementation)",
+            "Clojure",
+            "Common_Lisp"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Hy"
+    },
+    "HyperCard": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "HyperCard"
+    },
+    "HyperTalk": {
+        "incoming": [
+            "Natural_language_programming",
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "ActionScript",
+            "AppleScript",
+            "ECMAScript",
+            "JavaScript",
+            "Lingo_(programming_language)",
+            "LiveCode",
+            "SenseTalk",
+            "SuperTalk"
+        ],
+        "true_href": "HyperTalk"
+    },
+    "IBM_BASICA": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [
+            "GW-BASIC"
+        ],
+        "true_href": "IBM_BASIC"
+    },
+    "IBM_Cassette_BASIC": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [
+            "GW-BASIC"
+        ],
+        "true_href": "IBM_BASIC"
+    },
+    "IBM_Disk_BASIC": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [
+            "GW-BASIC"
+        ],
+        "true_href": "IBM_BASIC"
+    },
+    "IBM_PL/S": {},
+    "IDL_(programming_language)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "IDL_(programming_language)"
+    },
+    "IMP_(programming_language)": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "IMP_(programming_language)"
+    },
+    "INTLAB": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "INTLAB"
+    },
+    "ISETL": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "False",
+        "outgoing": [
+            "SETL2",
+            "ISETL",
+            "SETLX",
+            "ABC_(programming_language)"
+        ],
+        "true_href": "SETL"
+    },
+    "ISLISP": {
+        "incoming": [
+            "Common_Lisp",
+            "EuLisp",
+            "Le_Lisp",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "ISLISP"
+    },
+    "ISWIM": {
+        "incoming": [
+            "ALGOL_60",
+            "Lisp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "SASL_programming_language",
+            "Miranda_(programming_language)",
+            "ML_(programming_language)",
+            "Haskell_(programming_language)",
+            "Clean_(programming_language)",
+            "Lucid_(programming_language)"
+        ],
+        "true_href": "ISWIM"
+    },
+    "Icon_(programming_language)": {
+        "incoming": [
+            "SNOBOL",
+            "ALGOL"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Python_(programming_language)",
+            "tps://github.com/proebsting/goaldi"
+        ],
+        "true_href": "Icon_(programming_language)"
+    },
+    "Id_(programming_language)": {},
+    "Idris_(programming_language)": {
+        "incoming": [
+            "Agda_(programming_language)",
+            "Clean_(programming_language)",
+            "Coq",
+            "Epigram_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Haskell_(programming_language)",
+            "ML_(programming_language)",
+            "Rust_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Idris_(programming_language)"
+    },
+    "Information_Processing_Language": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "Lisp_(programming_language)"
+        ],
+        "true_href": "Information_Processing_Language"
+    },
+    "InterLisp": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "BBN_LISP"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Lisp_Machine_Lisp"
+        ],
+        "true_href": "Interlisp"
+    },
+    "Interlisp": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "BBN_LISP"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Lisp_Machine_Lisp"
+        ],
+        "true_href": "Interlisp"
+    },
+    "Interpress": {},
+    "Io_(programming_language)": {
+        "incoming": [
+            "Smalltalk",
+            "NewtonScript",
+            "Self_(programming_language)",
+            "Lua_(programming_language)",
+            "Lisp_(programming_language)",
+            "Python_(programming_language)",
+            "Actor_model_middle_history#Actor_programming_languages"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ioke_(programming_language)"
+        ],
+        "true_href": "Io_(programming_language)"
+    },
+    "Ioke_(programming_language)": {},
+    "Isabelle_theorem_prover": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Isabelle_(proof_assistant)"
+    },
+    "JOSS": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "TELCOMP",
+            "CAL_(programming_language)",
+            "FOCAL_(programming_language)",
+            "MUMPS"
+        ],
+        "true_href": "JOSS"
+    },
+    "JOVIAL": {
+        "incoming": [
+            "ALGOL",
+            "Semi-Automatic_Ground_Environment"
+        ],
+        "match": "True",
+        "outgoing": [
+            "CMS-2_(programming_language)",
+            "Coral_66",
+            "SYMPL"
+        ],
+        "true_href": "JOVIAL"
+    },
+    "JS++": {
+        "incoming": [
+            "C_(programming_language)",
+            "C++",
+            "C_Sharp_(programming_language)",
+            "Java_(programming_language)",
+            "JavaScript"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "JS++"
+    },
+    "JSON": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "JSON"
+    },
+    "J_(programming_language)": {
+        "incoming": [
+            "APL_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "NumPy",
+            "SuperCollider"
+        ],
+        "true_href": "J_(programming_language)"
+    },
+    "J_Sharp": {
+        "incoming": [
+            "Java_(programming_language)",
+            "Visual_J++"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Visual_J_Sharp"
+    },
+    "Jakarta_Server_Pages": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Jakarta_Server_Pages"
+    },
+    "JavaScript": {
+        "incoming": [
+            "Java_(programming_language)",
+            "Scheme_(programming_language)",
+            "Self_(programming_language)",
+            "AWK",
+            "HyperTalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "ActionScript",
+            "AssemblyScript",
+            "CoffeeScript",
+            "Dart_(programming_language)",
+            "Haxe",
+            "JS++",
+            "Objective-J",
+            "Opa_(programming_language)",
+            "TypeScript"
+        ],
+        "true_href": "JavaScript"
+    },
+    "Java_(programming_language)": {
+        "incoming": [
+            "CLU_(programming_language)",
+            "Simula67",
+            "Lisp_(programming_language)",
+            "Smalltalk",
+            "Ada_(programming_language)",
+            "C++",
+            "C_Sharp_(programming_language)",
+            "Eiffel_(programming_language)",
+            "Mesa_(programming_language)",
+            "Modula-3",
+            "Oberon_(programming_language)",
+            "Objective-C",
+            "UCSD_Pascal",
+            "Object_Pascal"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ada_(programming_language)",
+            "BeanShell",
+            "C_Sharp_(programming_language)",
+            "Chapel_(programming_language)",
+            "Clojure",
+            "ECMAScript",
+            "Fantom_(programming_language)",
+            "Gambas",
+            "Groovy_(programming_language)",
+            "Hack_(programming_language)",
+            "Haxe_(programming_language)",
+            "J_Sharp",
+            "Kotlin_(programming_language)",
+            "PHP",
+            "Python_(programming_language)",
+            "Scala_(programming_language)",
+            "Seed7",
+            "Vala_(programming_language)",
+            "JavaScript",
+            "JS++"
+        ],
+        "true_href": "Java_(programming_language)"
+    },
+    "Java_Object_Oriented_Querying": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "JOOQ_Object_Oriented_Querying"
+    },
+    "Java_Persistence_Query_Language": {
+        "incoming": [
+            "SQL",
+            "Hibernate_(Java)#Hibernate_Query_Language_(HQL)"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Jakarta_Persistence_Query_Language"
+    },
+    "Job_Control_Language": {},
+    "Join_calculus": {},
+    "Joins_(concurrency_library)": {},
+    "Joule_(programming_language)": {
+        "incoming": [
+            "Logic_Programming#Concurrent_logic_programming",
+            "Actor_model"
+        ],
+        "match": "True",
+        "outgoing": [
+            "E_(programming_language)"
+        ],
+        "true_href": "Joule_(programming_language)"
+    },
+    "Joy_(programming_language)": {
+        "incoming": [
+            "Scheme_(programming_language)",
+            "FP_(programming_language)",
+            "Forth_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Factor_(programming_language)",
+            "Cat_(programming_language)",
+            "Trith_(programming_language)"
+        ],
+        "true_href": "Joy_(programming_language)"
+    },
+    "Julia_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "Dylan_(programming_language)",
+            "Lisp_(programming_language)",
+            "Lua_(programming_language)",
+            "Wolfram_Mathematica",
+            "Wolfram_Language",
+            "MATLAB",
+            "Perl",
+            "Python_(programming_language)",
+            "R_(programming_language)",
+            "Ruby_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Julia_(programming_language)"
+    },
+    "Jupyter": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Project_Jupyter"
+    },
+    "KL0": {},
+    "KL1": {},
+    "K_(programming_language)": {
+        "incoming": [
+            "A+_(programming_language)",
+            "APL_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Q_(programming_language_from_Kx_Systems)",
+            "tps://shakti.com/"
+        ],
+        "true_href": "K_(programming_language)"
+    },
+    "Kawa_(Scheme_implementation)": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Kawa_(Scheme_implementation)"
+    },
+    "Kent_Recursive_Calculator": {
+        "incoming": [
+            "SASL_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Miranda_programming_language"
+        ],
+        "true_href": "Kent_Recursive_Calculator"
+    },
+    "KornShell": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "KornShell"
+    },
+    "Korn_Shell": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "KornShell"
+    },
+    "Kotlin_(programming_language)": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Eiffel_(programming_language)",
+            "Gosu_(programming_language)",
+            "Groovy_(programming_language)",
+            "Java_(programming_language)",
+            "JavaScript",
+            "ML_(programming_language)",
+            "Python_(programming_language)",
+            "Scala_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Kotlin_(programming_language)"
+    },
+    "LFE_(programming_language)": {
+        "incoming": [
+            "Erlang_(programming_language)",
+            "Common_Lisp",
+            "Maclisp",
+            "Scheme_(programming_language)",
+            "Elixir_(programming_language)",
+            "Clojure_(programming_language)",
+            "Hy_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "LFE_(programming_language)"
+    },
+    "LINPACK": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "LINPACK"
+    },
+    "LLVM_IR": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "LLVM"
+    },
+    "LPC_(programming_language)": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "LPMud"
+    },
+    "Language_Integrated_Query": {
+        "incoming": [
+            "SQL",
+            "Haskell_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Language_Integrated_Query"
+    },
+    "Laning_and_Zierler_system": {},
+    "Lasso_(programming_language)": {
+        "incoming": [
+            "Dylan_(programming_language)",
+            "Smalltalk",
+            "Scala_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Lasso_(programming_language)"
+    },
+    "LeLisp": {
+        "incoming": [
+            "Lisp_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "ISLISP",
+            "OpenLisp"
+        ],
+        "true_href": "Le_Lisp"
+    },
+    "Le_Lisp": {
+        "incoming": [
+            "Lisp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "ISLISP",
+            "OpenLisp"
+        ],
+        "true_href": "Le_Lisp"
+    },
+    "Lean_(proof_assistant)": {
+        "incoming": [
+            "ML_(programming_language)",
+            "Coq",
+            "Haskell"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Lean_(proof_assistant)"
+    },
+    "Limbo_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "Pascal_(programming_language)",
+            "Communicating_sequential_processes",
+            "Alef_(programming_language)",
+            "Newsqueak"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Stackless_Python",
+            "Go_(programming_language)",
+            "Rust_(programming_language)"
+        ],
+        "true_href": "Limbo_(programming_language)"
+    },
+    "Lingo_(programming_language)": {},
+    "Lisp_(programming_language)": {
+        "incoming": [
+            "Information_Processing_Language"
+        ],
+        "match": "True",
+        "outgoing": [
+            "CLIPS",
+            "CLU_(programming_language)",
+            "COWSEL",
+            "Dylan_(programming_language)",
+            "Elixir_(programming_language)",
+            "Forth_(programming_language)",
+            "Haskell_(programming_language)",
+            "Io_(programming_language)",
+            "Ioke_(programming_language)",
+            "JavaScript",
+            "Julia_(programming_language)",
+            "Logo_(programming_language)",
+            "Lua_(programming_language)",
+            "ML_(programming_language)",
+            "Nim_(programming_language)",
+            "Nu_(programming_language)",
+            "OPS5",
+            "Perl",
+            "POP-2",
+            "POP-11",
+            "Python_(programming_language)",
+            "R_(programming_language)",
+            "Rebol",
+            "Ruby_(programming_language)",
+            "Scala_(programming_language)",
+            "Swift_(programming_language)",
+            "Smalltalk",
+            "Tcl",
+            "Wolfram_Language"
+        ],
+        "true_href": "Lisp_(programming_language)"
+    },
+    "Lisp_Machine_Lisp": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "Maclisp",
+            "Interlisp"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Common_Lisp"
+        ],
+        "true_href": "Lisp_Machine_Lisp"
+    },
+    "Lisp_programming_language": {
+        "incoming": [
+            "Information_Processing_Language"
+        ],
+        "match": "False",
+        "outgoing": [
+            "CLIPS",
+            "CLU_(programming_language)",
+            "COWSEL",
+            "Dylan_(programming_language)",
+            "Elixir_(programming_language)",
+            "Forth_(programming_language)",
+            "Haskell_(programming_language)",
+            "Io_(programming_language)",
+            "Ioke_(programming_language)",
+            "JavaScript",
+            "Julia_(programming_language)",
+            "Logo_(programming_language)",
+            "Lua_(programming_language)",
+            "ML_(programming_language)",
+            "Nim_(programming_language)",
+            "Nu_(programming_language)",
+            "OPS5",
+            "Perl",
+            "POP-2",
+            "POP-11",
+            "Python_(programming_language)",
+            "R_(programming_language)",
+            "Rebol",
+            "Ruby_(programming_language)",
+            "Scala_(programming_language)",
+            "Swift_(programming_language)",
+            "Smalltalk",
+            "Tcl",
+            "Wolfram_Language"
+        ],
+        "true_href": "Lisp_(programming_language)"
+    },
+    "List_of_BASIC_dialects": {},
+    "List_of_object-oriented_programming_languages": {},
+    "LiveCode": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "LiveCode"
+    },
+    "LiveScript_(programming_language)": {
+        "incoming": [
+            "JavaScript",
+            "Haskell_(programming_language)",
+            "CoffeeScript",
+            "F_Sharp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "LiveScript_(programming_language)"
+    },
+    "Logic_Programming#Concurrent_logic_programming": {},
+    "Logo_(programming_language)": {
+        "incoming": [
+            "Lisp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "AgentSheets",
+            "NetLogo",
+            "Smalltalk",
+            "Etoys_(programming_language)",
+            "Scratch_(programming_language)",
+            "Microsoft_Small_Basic",
+            "REBOL",
+            "Boxer_(programming_environment)"
+        ],
+        "true_href": "Logo_(programming_language)"
+    },
+    "Logtalk": {
+        "incoming": [
+            "Prolog",
+            "Smalltalk",
+            "Objective-C"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Logtalk"
+    },
+    "Lua_(programming_language)": {
+        "incoming": [
+            "C++",
+            "CLU_(programming_language)",
+            "Modula-2",
+            "Scheme_(programming_language)",
+            "SNOBOL"
+        ],
+        "match": "True",
+        "outgoing": [
+            "GameMonkey_Script",
+            "Io_(programming_language)",
+            "JavaScript",
+            "Julia_(programming_language)",
+            "Red_(programming_language)",
+            "Ring_(programming_language)",
+            "Ruby_(programming_language)",
+            "Squirrel_(programming_language)",
+            "C--"
+        ],
+        "true_href": "Lua_(programming_language)"
+    },
+    "Lucid_(programming_language)": {
+        "incoming": [
+            "ISWIM"
+        ],
+        "match": "True",
+        "outgoing": [
+            "SISAL",
+            "PureData",
+            "Lustre_(programming_language)"
+        ],
+        "true_href": "Lucid_(programming_language)"
+    },
+    "Lustre_(programming_language)": {},
+    "MATH-MATIC": {
+        "incoming": [
+            "FLOW-MATIC"
+        ],
+        "match": "True",
+        "outgoing": [
+            "UNICODE_(programming_language)"
+        ],
+        "true_href": "MATH-MATIC"
+    },
+    "MATLAB": {
+        "incoming": [
+            "APL_(programming_language)",
+            "EISPACK",
+            "LINPACK",
+            "PL/0",
+            "Speakeasy_(computational_environment)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Julia_(programming_language)",
+            "GNU_Octave",
+            "Scilab",
+            "INTLAB"
+        ],
+        "true_href": "MATLAB"
+    },
+    "MBlock": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Makeblock"
+    },
+    "ML_(programming_language)": {
+        "incoming": [
+            "ISWIM"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Clojure",
+            "Coq",
+            "Cyclone_(programming_language)",
+            "C++",
+            "Elm_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "F*_(programming_language)",
+            "Haskell_(programming_language)",
+            "Idris_(programming_language)",
+            "Kotlin_(programming_language)",
+            "Miranda_(programming_language)",
+            "Nemerle",
+            "OCaml",
+            "Opa_(programming_language)",
+            "Erlang_(programming_language)",
+            "Rust_(programming_language)",
+            "Scala_(programming_language)",
+            "Standard_ML"
+        ],
+        "true_href": "ML_(programming_language)"
+    },
+    "MSX_BASIC": {
+        "incoming": [
+            "GW-BASIC"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Vilnius_BASIC"
+        ],
+        "true_href": "MSX_BASIC"
+    },
+    "MUMPS": {
+        "incoming": [
+            "JOSS"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Profile_Scripting_Language",
+            "Cach\u00e9_ObjectScript",
+            "GT.M"
+        ],
+        "true_href": "MUMPS"
+    },
+    "Machine_code": {},
+    "Maclisp": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "Common_Lisp"
+        ],
+        "true_href": "Maclisp"
+    },
+    "Maker_culture": {},
+    "Mary_(programming_language)": {
+        "incoming": [
+            "ALGOL_68"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Mary_(programming_language)"
+    },
+    "Mathematica": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Wolfram_Mathematica"
+    },
+    "Mathematical_notation": {},
+    "Mercury_(programming_language)": {
+        "incoming": [
+            "Prolog",
+            "Hope_(programming_language)",
+            "Haskell_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Mercury_(programming_language)"
+    },
+    "Mesa_(programming_language)": {
+        "incoming": [
+            "ALGOL"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Java_(programming_language)",
+            "Modula-2",
+            "Cedar_(programming_language)",
+            "PostScript"
+        ],
+        "true_href": "Mesa_(programming_language)"
+    },
+    "Microsoft_BASIC": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Microsoft_BASIC"
+    },
+    "Microsoft_Power_Fx": {
+        "incoming": [
+            "Excel_function",
+            "Excel_macro",
+            "Pascal_(programming_language)",
+            "Mathematica",
+            "Miranda_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Microsoft_Power_Fx"
+    },
+    "Microsoft_Small_Basic": {
+        "incoming": [
+            "Logo_(programming_language)",
+            "QBasic",
+            "Visual_Basic_.NET"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Microsoft_Small_Basic"
+    },
+    "Mirah_(programming_language)": {
+        "incoming": [
+            "Ruby_(programming_language)",
+            "Java_(programming_language)",
+            "Boo_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Mirah_(programming_language)"
+    },
+    "Miranda_(programming_language)": {
+        "incoming": [
+            "Kent_Recursive_Calculator",
+            "ML_(programming_language)",
+            "SASL_programming_language",
+            "Hope_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Clean_(programming_language)",
+            "Haskell_(programming_language)",
+            "Orwell_(programming_language)",
+            "Microsoft_Power_Fx"
+        ],
+        "true_href": "Miranda_(programming_language)"
+    },
+    "Miranda_programming_language": {
+        "incoming": [
+            "Kent_Recursive_Calculator",
+            "ML_(programming_language)",
+            "SASL_programming_language",
+            "Hope_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Clean_(programming_language)",
+            "Haskell_(programming_language)",
+            "Orwell_(programming_language)",
+            "Microsoft_Power_Fx"
+        ],
+        "true_href": "Miranda_(programming_language)"
+    },
+    "Modula": {
+        "incoming": [
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Alma-0",
+            "Go_(programming_language)",
+            "Modula-2"
+        ],
+        "true_href": "Modula"
+    },
+    "Modula-2": {
+        "incoming": [
+            "Modula",
+            "Mesa_(programming_language)",
+            "Pascal_(programming_language)",
+            "ALGOL_W",
+            "Euclid_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Modula-3",
+            "Oberon_(programming_language)",
+            "Ada_(programming_language)",
+            "Fortran_90",
+            "Lua_(programming_language)",
+            "Seed7",
+            "Zonnon"
+        ],
+        "true_href": "Modula-2"
+    },
+    "Modula-2+": {
+        "incoming": [
+            "Pascal_(programming_language)",
+            "ALGOL",
+            "Modula-2"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Modula-3"
+        ],
+        "true_href": "Modula-2+"
+    },
+    "Modula-3": {
+        "incoming": [
+            "ALGOL",
+            "Euclid_(programming_language)",
+            "Mesa_(programming_language)",
+            "Modula-2",
+            "Modula-2+",
+            "Oberon_(programming_language)",
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C_Sharp_(programming_language)",
+            "Java_(programming_language)",
+            "Nim_(programming_language)",
+            "OCaml",
+            "Rust_(programming_language)",
+            "Python_(programming_language)"
+        ],
+        "true_href": "Modula-3"
+    },
+    "MoonScript": {
+        "incoming": [
+            "C++",
+            "CLU_(programming_language)",
+            "Modula-2",
+            "Scheme_(programming_language)",
+            "SNOBOL"
+        ],
+        "match": "False",
+        "outgoing": [
+            "GameMonkey_Script",
+            "Io_(programming_language)",
+            "JavaScript",
+            "Julia_(programming_language)",
+            "Red_(programming_language)",
+            "Ring_(programming_language)",
+            "Ruby_(programming_language)",
+            "Squirrel_(programming_language)",
+            "C--"
+        ],
+        "true_href": "Lua_(programming_language)"
+    },
+    "Moose_(Perl)": {},
+    "N1QL": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Couchbase_Server"
+    },
+    "NEWP": {
+        "incoming": [
+            "ALGOL",
+            "Executive_Systems_Problem_Oriented_Language"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "NEWP"
+    },
+    "NS_Basic": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "NS_Basic"
+    },
+    "Natural_language_programming": {},
+    "NekoVM": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "NekoVM"
+    },
+    "Nemerle": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Lisp_(programming_language)",
+            "ML_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Nemerle"
+    },
+    "NetLogo": {
+        "incoming": [
+            "Logo_(programming_language)",
+            "StarLogo"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "NetLogo"
+    },
+    "NetRexx": {
+        "incoming": [
+            "PL/I",
+            "REXX",
+            "Object_REXX",
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "NetRexx"
+    },
+    "Newspeak_(programming_language)": {
+        "incoming": [
+            "Smalltalk",
+            "Self_(programming_language)",
+            "BETA_(programming_language)",
+            "E_(programming_language)",
+            "Nineteen_Eighty-Four"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Newspeak_(programming_language)"
+    },
+    "Newsqueak": {
+        "incoming": [
+            "C_(programming_language)",
+            "Communicating_sequential_processes"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Alef_(programming_language)",
+            "Go_(programming_language)",
+            "Limbo_(programming_language)",
+            "Rust_(programming_language)"
+        ],
+        "true_href": "Newsqueak"
+    },
+    "NewtonScript": {
+        "incoming": [
+            "Self_(programming_language)",
+            "Dylan_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Io_(programming_language)"
+        ],
+        "true_href": "NewtonScript"
+    },
+    "Nial": {
+        "incoming": [
+            "APL_programming_language",
+            "Lisp_programming_language"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Nial"
+    },
+    "Nim_(programming_language)": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "Modula-3",
+            "Lisp_(programming_language)",
+            "C++",
+            "Object_Pascal",
+            "Python_(programming_language)",
+            "Oberon_(programming_language)",
+            "Rust_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Nim_(programming_language)"
+    },
+    "Nineteen_Eighty-Four": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Nineteen_Eighty-Four"
+    },
+    "Nu_(programming_language)": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "Objective-C",
+            "Ruby_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Nu_(programming_language)"
+    },
+    "NumPy": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "NumPy"
+    },
+    "OCaml": {
+        "incoming": [
+            "C_(programming_language)",
+            "Caml",
+            "Modula-3",
+            "Pascal_(programming_language)",
+            "Standard_ML"
+        ],
+        "match": "True",
+        "outgoing": [
+            "ATS_(programming_language)",
+            "Coq",
+            "Elm_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "F*_(programming_language)",
+            "Haxe",
+            "Opa_(programming_language)",
+            "Rust_(programming_language)",
+            "Scala_(programming_language)"
+        ],
+        "true_href": "OCaml"
+    },
+    "OPS5": {},
+    "Oaklisp": {
+        "incoming": [
+            "Scheme_(programming_language)",
+            "T_programming_language",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "EuLisp",
+            "Java_(programming_language)",
+            "Dylan_programming_language"
+        ],
+        "true_href": "Oaklisp"
+    },
+    "Oberon-2": {
+        "incoming": [
+            "Oberon_(programming_language)",
+            "Modula-2",
+            "Object_Oberon"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Oberon_(programming_language)#Oberon-07",
+            "Zonnon",
+            "Active_Oberon",
+            "Component_Pascal",
+            "Go_(programming_language)",
+            "Nim_(programming_language)"
+        ],
+        "true_href": "Oberon-2"
+    },
+    "Oberon-2_(programming_language)": {
+        "incoming": [
+            "Oberon_(programming_language)",
+            "Modula-2",
+            "Object_Oberon"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Oberon_(programming_language)#Oberon-07",
+            "Zonnon",
+            "Active_Oberon",
+            "Component_Pascal",
+            "Go_(programming_language)",
+            "Nim_(programming_language)"
+        ],
+        "true_href": "Oberon-2"
+    },
+    "Oberon_(programming_language)": {
+        "incoming": [
+            "Modula-2"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Oberon-2",
+            "Oberon_(programming_language)#Oberon-07",
+            "Active_Oberon",
+            "Component_Pascal",
+            "Zonnon",
+            "Go_(programming_language)",
+            "Nim_(programming_language)"
+        ],
+        "true_href": "Oberon_(programming_language)"
+    },
+    "Oberon_(programming_language)#Oberon-07": {
+        "incoming": [
+            "Modula-2"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Oberon-2",
+            "Oberon_(programming_language)#Oberon-07",
+            "Active_Oberon",
+            "Component_Pascal",
+            "Zonnon",
+            "Go_(programming_language)",
+            "Nim_(programming_language)"
+        ],
+        "true_href": "Oberon_(programming_language)"
+    },
+    "ObjVlisp": {},
+    "Object_Oberon": {
+        "incoming": [
+            "Modula-2",
+            "Oberon_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Oberon-2"
+        ],
+        "true_href": "Object_Oberon"
+    },
+    "Object_Pascal": {
+        "incoming": [
+            "Pascal_(programming_language)",
+            "Simula",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "C_Sharp_(programming_language)",
+            "Genie_(programming_language)",
+            "Java_(programming_language)",
+            "Nim_(programming_language)",
+            "C/AL"
+        ],
+        "true_href": "Object_Pascal"
+    },
+    "Object_REXX": {
+        "incoming": [
+            "Rexx",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "NetRexx"
+        ],
+        "true_href": "Object_REXX"
+    },
+    "Objective-C": {
+        "incoming": [
+            "C_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Groovy_(programming_language)",
+            "Java_(programming_language)",
+            "Nu_(programming_language)",
+            "Objective-J",
+            "TOM_(object-oriented_programming_language)",
+            "Swift_(programming_language)"
+        ],
+        "true_href": "Objective-C"
+    },
+    "Objective-C++": {
+        "incoming": [
+            "C_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Groovy_(programming_language)",
+            "Java_(programming_language)",
+            "Nu_(programming_language)",
+            "Objective-J",
+            "TOM_(object-oriented_programming_language)",
+            "Swift_(programming_language)"
+        ],
+        "true_href": "Objective-C"
+    },
+    "Objective-J": {},
+    "Occam_(programming_language)": {
+        "incoming": [
+            "Communicating_sequential_processes"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ease_(programming_language)",
+            "Go_(programming_language)",
+            "Python_(programming_language)"
+        ],
+        "true_href": "Occam_(programming_language)"
+    },
+    "Opa_(programming_language)": {
+        "incoming": [
+            "OCaml",
+            "Erlang_(programming_language)",
+            "JavaScript"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Opa_(programming_language)"
+    },
+    "OpenLisp": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "ISLISP"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "OpenLisp"
+    },
+    "OpenVera": {},
+    "Orwell_(programming_language)": {
+        "incoming": [
+            "Miranda_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Haskell_(programming_language)"
+        ],
+        "true_href": "Orwell_(programming_language)"
+    },
+    "Oxygene_(programming_language)": {
+        "incoming": [
+            "Delphi_(Programming_Language)",
+            "Object_Pascal",
+            "C_Sharp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Oxygene_(programming_language)"
+    },
+    "Oz_(programming_language)": {
+        "incoming": [
+            "Erlang_(programming_language)",
+            "Lisp_(programming_language)",
+            "Prolog"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Alice_(programming_language)",
+            "Scala_(programming_language)"
+        ],
+        "true_href": "Oz_(programming_language)"
+    },
+    "PACT_I": {},
+    "PHP": {
+        "incoming": [
+            "Perl",
+            "HTML",
+            "C_(programming_language)",
+            "C++",
+            "Java_(programming_language)",
+            "Wikipedia:Citation_needed",
+            "Tcl",
+            "JavaScript",
+            "Hack_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Hack_(programming_language)",
+            "Jakarta_Server_Pages",
+            "Active_Server_Pages"
+        ],
+        "true_href": "PHP"
+    },
+    "PL-6": {},
+    "PL/0": {},
+    "PL/8": {},
+    "PL/I": {
+        "incoming": [
+            "COBOL",
+            "Fortran",
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Control_Language",
+            "PL/M",
+            "IBM_PL/S",
+            "PL-6",
+            "PL/8",
+            "REXX"
+        ],
+        "true_href": "PL/I"
+    },
+    "PL/M": {
+        "incoming": [
+            "ALGOL",
+            "PL/I",
+            "XPL"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "PL/M"
+    },
+    "PL/SQL": {},
+    "PL/pgSQL": {
+        "incoming": [
+            "PL/SQL",
+            "Ada_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "PL/pgSQL"
+    },
+    "PLEX_(programming_language)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "Erlang_(programming_language)"
+        ],
+        "true_href": "PLEX_(programming_language)"
+    },
+    "POP-11": {},
+    "POP-2": {},
+    "PSB-Prolog": {},
+    "ParaSail_(programming_language)": {
+        "incoming": [
+            "Modula",
+            "Ada_(programming_language)",
+            "Pascal_(programming_language)",
+            "ML_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Nim_(programming_language)"
+        ],
+        "true_href": "ParaSail_(programming_language)"
+    },
+    "ParaSail_(programming_language)#Description": {
+        "incoming": [
+            "Modula",
+            "Ada_(programming_language)",
+            "Pascal_(programming_language)",
+            "ML_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Nim_(programming_language)"
+        ],
+        "true_href": "ParaSail_(programming_language)"
+    },
+    "Pascal_(programming_language)": {
+        "incoming": [
+            "ALGOL_W",
+            "Simula"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ada_(programming_language)",
+            "C/AL",
+            "Component_Pascal",
+            "Go_(programming_language)",
+            "Java_(programming_language)",
+            "Modula",
+            "Modula-2",
+            "Modula-3",
+            "Oberon_(programming_language)",
+            "Oberon-2_(programming_language)",
+            "Object_Pascal",
+            "Oxygene_(programming_language)",
+            "Microsoft_Power_Fx",
+            "Seed7",
+            "Standard_ML",
+            "VHDL",
+            "Structured_text"
+        ],
+        "true_href": "Pascal_(programming_language)"
+    },
+    "Perl": {
+        "incoming": [
+            "AWK_(programming_language)",
+            "BASIC",
+            "C_(programming_language)",
+            "C++",
+            "Lisp_(programming_language)",
+            "Sed",
+            "Unix_shell"
+        ],
+        "match": "True",
+        "outgoing": [
+            "CoffeeScript",
+            "Wikipedia:Citation_needed",
+            "Groovy_(programming_language)",
+            "Wikipedia:Citation_needed",
+            "JavaScript",
+            "Julia_(programming_language)",
+            "LPC_(programming_language)",
+            "PHP",
+            "Python_(programming_language)",
+            "Raku_(programming_language)",
+            "Ruby_(programming_language)",
+            "PowerShell"
+        ],
+        "true_href": "Perl"
+    },
+    "Pike_(programming_language)": {},
+    "Pizza_(programming_language)": {
+        "incoming": [
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Generic_Java",
+            "Scala_programming_language"
+        ],
+        "true_href": "Pizza_(programming_language)"
+    },
+    "Plankalk\u00fcl": {
+        "incoming": [
+            "Begriffsschrift"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Superplan",
+            "Heinz_Rutishauser",
+            "ALGOL_58"
+        ],
+        "true_href": "Plankalk\u00fcl"
+    },
+    "Planner_(programming_language)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "Prolog"
+        ],
+        "true_href": "Planner_(programming_language)"
+    },
+    "Polymorphic_Programming_Language": {},
+    "Polyphonic_C_sharp": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Join_calculus"
+        ],
+        "match": "False",
+        "outgoing": [
+            "C\u03c9"
+        ],
+        "true_href": "Polyphonic_C_Sharp"
+    },
+    "Pony_(programming_language)": {},
+    "Portable_Document_Format": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "PDF"
+    },
+    "PostScript": {
+        "incoming": [
+            "Mesa_(programming_language)",
+            "Interpress",
+            "Lisp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Portable_Document_Format"
+        ],
+        "true_href": "PostScript"
+    },
+    "PowerShell": {
+        "incoming": [
+            "Python_(programming_language)",
+            "KornShell",
+            "Perl",
+            "C_Sharp_(programming_language)",
+            "Control_Language",
+            "DIGITAL_Command_Language",
+            "SQL",
+            "Tcl",
+            "Tk_(software)",
+            "Chef_(software)",
+            "Puppet_(software)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "PowerShell"
+    },
+    "Processing_(programming_language)": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Processing"
+    },
+    "Profile_Scripting_Language": {
+        "incoming": [
+            "MUMPS"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Profile_Scripting_Language"
+    },
+    "Programming_Language_for_Business": {
+        "incoming": [
+            "COBOL"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Programming_Language_for_Business"
+    },
+    "Project_Verona": {
+        "incoming": [
+            "Rust_(programming_language)",
+            "Cyclone_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Project_Verona"
+    },
+    "Prolog": {
+        "incoming": [
+            "Planner_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Constraint_Handling_Rules",
+            "Clojure",
+            "Datalog",
+            "Erlang_(programming_language)",
+            "KL0",
+            "KL1",
+            "Logtalk",
+            "Mercury_(programming_language)",
+            "Oz_(programming_language)",
+            "Strand_(programming_language)",
+            "Visual_Prolog",
+            "XSB"
+        ],
+        "true_href": "Prolog"
+    },
+    "Prolog_(programming_language)": {
+        "incoming": [
+            "Planner_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Constraint_Handling_Rules",
+            "Clojure",
+            "Datalog",
+            "Erlang_(programming_language)",
+            "KL0",
+            "KL1",
+            "Logtalk",
+            "Mercury_(programming_language)",
+            "Oz_(programming_language)",
+            "Strand_(programming_language)",
+            "Visual_Prolog",
+            "XSB"
+        ],
+        "true_href": "Prolog"
+    },
+    "Puppet_(software)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Puppet_(software)"
+    },
+    "PureData": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Pure_Data"
+    },
+    "PureScript": {
+        "incoming": [
+            "Haskell_(programming_language)",
+            "JavaScript"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "PureScript"
+    },
+    "Pyomo": {
+        "incoming": [
+            "Python_(programming_language)",
+            "AMPL",
+            "General_Algebraic_Modeling_System"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Pyomo"
+    },
+    "Python_(programming_language)": {
+        "incoming": [
+            "ABC_(programming_language)",
+            "Ada_(programming_language)",
+            "ALGOL_68",
+            "APL_(programming_language)",
+            "C_(programming_language)",
+            "C++",
+            "CLU_(programming_language)",
+            "Dylan_(programming_language)",
+            "Haskell_(programming_language)",
+            "Icon_(programming_language)",
+            "Lisp_(programming_language)",
+            "Modula-3",
+            "Perl",
+            "Standard_ML"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Apache_Groovy",
+            "Boo_(programming_language)",
+            "Cobra_(programming_language)",
+            "CoffeeScript",
+            "D_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Genie_(programming_language)",
+            "Go_(programming_language)",
+            "JavaScript",
+            "Julia_(programming_language)",
+            "Nim_(programming_language)",
+            "Ring_(programming_language)",
+            "Ruby_(programming_language)",
+            "Swift_(programming_language)"
+        ],
+        "true_href": "Python_(programming_language)"
+    },
+    "QB64": {
+        "incoming": [
+            "QuickBASIC",
+            "QBASIC"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "QB64"
+    },
+    "QBASIC": {
+        "incoming": [
+            "QuickBASIC",
+            "GW-BASIC"
+        ],
+        "match": "False",
+        "outgoing": [
+            "FreeBASIC",
+            "QB64",
+            "SmallBasic"
+        ],
+        "true_href": "QBasic"
+    },
+    "QBasic": {
+        "incoming": [
+            "QuickBASIC",
+            "GW-BASIC"
+        ],
+        "match": "True",
+        "outgoing": [
+            "FreeBASIC",
+            "QB64",
+            "SmallBasic"
+        ],
+        "true_href": "QBasic"
+    },
+    "QML": {
+        "incoming": [
+            "XAML",
+            "JSON",
+            "JavaScript",
+            "Qt_(framework)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Qt_(framework)",
+            "Ring_(programming_language)"
+        ],
+        "true_href": "QML"
+    },
+    "Q_(programming_language_from_Kx_Systems)": {
+        "incoming": [
+            "A+_(programming_language)",
+            "APL_(programming_language)",
+            "Scheme_(programming_language)",
+            "K_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Q_(programming_language_from_Kx_Systems)"
+    },
+    "Qore_(programming_language)": {
+        "incoming": [
+            "Perl",
+            "D_language",
+            "C++",
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Qore_(programming_language)"
+    },
+    "Qt_(framework)": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Qt_(software)"
+    },
+    "QuickBASIC": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "QuickBASIC"
+    },
+    "QuickBasic": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "QuickBASIC"
+    },
+    "REBOL": {
+        "incoming": [
+            "Self_(programming_language)",
+            "Forth_(programming_language)",
+            "Lisp_(programming_language)",
+            "Logo_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "JSON",
+            "Red_(programming_language)"
+        ],
+        "true_href": "Rebol"
+    },
+    "REXX": {
+        "incoming": [
+            "PL/I",
+            "ALGOL",
+            "CMS_EXEC",
+            "EXEC_2"
+        ],
+        "match": "False",
+        "outgoing": [
+            "NetRexx",
+            "Object_REXX"
+        ],
+        "true_href": "Rexx"
+    },
+    "RPL_(programming_language)": {
+        "incoming": [
+            "Reverse_Polish_Notation",
+            "Forth_(programming_language)",
+            "Lisp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "RPL_(programming_language)"
+    },
+    "R_(programming_language)": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "S_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Julia_(programming_language)"
+        ],
+        "true_href": "R_(programming_language)"
+    },
+    "Racket_(programming_language)": {
+        "incoming": [
+            "Eiffel_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Clojure",
+            "Rust_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "true_href": "Racket_(programming_language)"
+    },
+    "Raku_(programming_language)": {
+        "incoming": [
+            "Perl",
+            "Ruby_(programming_language)",
+            "Smalltalk",
+            "Haskell_(programming_language)",
+            "JavaScript"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Perl",
+            "Haskell_(programming_language)"
+        ],
+        "true_href": "Raku_(programming_language)"
+    },
+    "Ratfor": {
+        "incoming": [
+            "Fortran",
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Ratfor"
+    },
+    "Rebol": {
+        "incoming": [
+            "Self_(programming_language)",
+            "Forth_(programming_language)",
+            "Lisp_(programming_language)",
+            "Logo_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "JSON",
+            "Red_(programming_language)"
+        ],
+        "true_href": "Rebol"
+    },
+    "Red_(programming_language)": {
+        "incoming": [
+            "Rebol",
+            "Scala_(programming_language)",
+            "Lua_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Red_(programming_language)"
+    },
+    "Redux_(JavaScript_library)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Redux_(JavaScript_library)"
+    },
+    "Reia_(programming_language)": {
+        "incoming": [
+            "Clojure",
+            "Erlang_(programming_language)",
+            "Ruby_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "LFE_(programming_language)"
+        ],
+        "true_href": "Elixir_(programming_language)"
+    },
+    "Reverse_Polish_Notation": {},
+    "Rexx": {
+        "incoming": [
+            "PL/I",
+            "ALGOL",
+            "CMS_EXEC",
+            "EXEC_2"
+        ],
+        "match": "True",
+        "outgoing": [
+            "NetRexx",
+            "Object_REXX"
+        ],
+        "true_href": "Rexx"
+    },
+    "Ring_(programming_language)": {
+        "incoming": [
+            "Lua_(programming_language)",
+            "Python_(programming_language)",
+            "Ruby_(programming_language)",
+            "C_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "BASIC",
+            "QML",
+            "XBase"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Ring_(programming_language)"
+    },
+    "Ruby_(programming_language)": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "BASIC",
+            "C++",
+            "CLU_(programming_language)",
+            "Dylan_(programming_language)",
+            "Eiffel_(programming_language)",
+            "Lisp_(programming_language)",
+            "Lua_(programming_language)",
+            "Perl",
+            "Python_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Clojure",
+            "CoffeeScript",
+            "Crystal_(programming_language)",
+            "D_(programming_language)",
+            "Elixir_(programming_language)",
+            "Groovy_(programming_language)",
+            "Ioke_(programming_language)",
+            "Julia_(programming_language)",
+            "Mirah_(programming_language)",
+            "Nu_(programming_language)",
+            "Ring_(programming_language)",
+            "Rust_(programming_language)",
+            "Swift_(programming_language)"
+        ],
+        "true_href": "Ruby_(programming_language)"
+    },
+    "Rust_(programming_language)": {
+        "incoming": [
+            "Alef_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "C++",
+            "Cyclone_(programming_language)",
+            "Erlang_(programming_language)",
+            "Haskell",
+            "Limbo_(programming_language)",
+            "Newsqueak",
+            "OCaml",
+            "Ruby_(programming_language)",
+            "Scheme_(programming_language)",
+            "Standard_ML",
+            "Swift_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Idris_(programming_language)",
+            "SPARK_(programming_language)",
+            "Swift_(programming_language)",
+            "Project_Verona",
+            "Zig_(programming_language)"
+        ],
+        "true_href": "Rust_(programming_language)"
+    },
+    "S3_(programming_language)": {
+        "incoming": [
+            "ALGOL_68"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "S3_(programming_language)"
+    },
+    "SAC_programming_language": {
+        "incoming": [
+            "APL_programming_language",
+            "SISAL",
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "SAC_programming_language"
+    },
+    "SASL_(programming_language)": {
+        "incoming": [
+            "ISWIM"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Kent_Recursive_Calculator",
+            "Miranda_programming_language",
+            "Haskell_(programming_language)"
+        ],
+        "true_href": "SASL_(programming_language)"
+    },
+    "SASL_programming_language": {
+        "incoming": [
+            "ISWIM"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Kent_Recursive_Calculator",
+            "Miranda_programming_language",
+            "Haskell_(programming_language)"
+        ],
+        "true_href": "SASL_(programming_language)"
+    },
+    "SB-Prolog": {},
+    "SETL": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "True",
+        "outgoing": [
+            "SETL2",
+            "ISETL",
+            "SETLX",
+            "ABC_(programming_language)"
+        ],
+        "true_href": "SETL"
+    },
+    "SETL2": {
+        "incoming": [
+            "ALGOL_60"
+        ],
+        "match": "False",
+        "outgoing": [
+            "SETL2",
+            "ISETL",
+            "SETLX",
+            "ABC_(programming_language)"
+        ],
+        "true_href": "SETL"
+    },
+    "SETLX": {},
+    "SISAL": {
+        "incoming": [
+            "Pascal_(programming_language)",
+            "C_(programming_language)",
+            "Fortran"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Haskell_(programming_language)",
+            "Wikipedia:Citation_needed",
+            "SAC_programming_language"
+        ],
+        "true_href": "SISAL"
+    },
+    "SNOBOL": {
+        "incoming": [
+            "COMIT"
+        ],
+        "match": "True",
+        "outgoing": [
+            "AWK",
+            "Icon_(programming_language)",
+            "Bs_(programming_language)",
+            "Lua_(programming_language)"
+        ],
+        "true_href": "SNOBOL"
+    },
+    "SP/k": {
+        "incoming": [
+            "PL/I"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Turing_(programming_language)"
+        ],
+        "true_href": "SP/k"
+    },
+    "SPARK_(programming_language)": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "Eiffel_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "SPARK_(programming_language)"
+    },
+    "SPARQL": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "SPARQL"
+    },
+    "SQL": {
+        "incoming": [
+            "Datalog"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Contextual_Query_Language",
+            "Language_Integrated_Query",
+            "SPARQL",
+            "PowerShell",
+            "Java_Persistence_Query_Language",
+            "Java_Object_Oriented_Querying",
+            "N1QL"
+        ],
+        "true_href": "SQL"
+    },
+    "SQL/PSM": {
+        "incoming": [
+            "PL/SQL",
+            "Ada_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "SQL/PSM"
+    },
+    "SYMPL": {},
+    "S_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "APL_(programming_language)",
+            "Polymorphic_Programming_Language",
+            "Fortran"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "S_(programming_language)"
+    },
+    "Sather": {
+        "incoming": [
+            "Eiffel_(programming_language)",
+            "CLU_(programming_language)",
+            "Common_Lisp",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Cool_(programming_language)"
+        ],
+        "true_href": "Sather"
+    },
+    "Scala_(programming_language)": {
+        "incoming": [
+            "Common_Lisp",
+            "Eiffel_(programming_language)",
+            "Erlang_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Haskell_(programming_language)",
+            "Java_(programming_language)",
+            "OCaml",
+            "Oz_(programming_language)",
+            "Pizza_(programming_language)",
+            "Scheme_(programming_language)",
+            "Smalltalk",
+            "Standard_ML"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Ceylon_(programming_language)",
+            "Chisel_(programming_language)",
+            "Fantom_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "Kotlin_(programming_language)",
+            "Lasso_(programming_language)",
+            "Red_(programming_language)",
+            "Flix_(programming_language)"
+        ],
+        "true_href": "Scala_(programming_language)"
+    },
+    "Scala_programming_language": {
+        "incoming": [
+            "Common_Lisp",
+            "Eiffel_(programming_language)",
+            "Erlang_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "Haskell_(programming_language)",
+            "Java_(programming_language)",
+            "OCaml",
+            "Oz_(programming_language)",
+            "Pizza_(programming_language)",
+            "Scheme_(programming_language)",
+            "Smalltalk",
+            "Standard_ML"
+        ],
+        "match": "False",
+        "outgoing": [
+            "Ceylon_(programming_language)",
+            "Chisel_(programming_language)",
+            "Fantom_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "Kotlin_(programming_language)",
+            "Lasso_(programming_language)",
+            "Red_(programming_language)",
+            "Flix_(programming_language)"
+        ],
+        "true_href": "Scala_(programming_language)"
+    },
+    "Scheme_(programming_language)": {},
+    "Schoonschip": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Schoonschip"
+    },
+    "Scilab": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Scilab"
+    },
+    "ScratchJr": {},
+    "Scratch_(programming_language)": {
+        "incoming": [
+            "Logo_(programming_language)",
+            "Smalltalk",
+            "HyperCard",
+            "StarLogo",
+            "AgentSheets",
+            "AgentCubes",
+            "Etoys_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Catrobat",
+            "ScratchJr",
+            "Snap!_(programming_language)",
+            "MBlock",
+            "Turtlestitch"
+        ],
+        "true_href": "Scratch_(programming_language)"
+    },
+    "Sed": {
+        "incoming": [
+            "Ed_(text_editor)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Perl",
+            "AWK"
+        ],
+        "true_href": "Sed"
+    },
+    "Seed7": {
+        "incoming": [
+            "Pascal_(programming_language)",
+            "Modula-2",
+            "Ada_(programming_language)",
+            "ALGOL_68",
+            "C_(programming_language)",
+            "C++",
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Seed7"
+    },
+    "Self_(programming_language)": {
+        "incoming": [
+            "Smalltalk",
+            "APL_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "NewtonScript",
+            "JavaScript",
+            "Io_(programming_language)",
+            "Agora_(programming_language)",
+            "Squeak",
+            "Lua_(programming_language)",
+            "Factor_(programming_language)",
+            "REBOL"
+        ],
+        "true_href": "Self_(programming_language)"
+    },
+    "Semi-Automatic_Ground_Environment": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Semi-Automatic_Ground_Environment"
+    },
+    "SenseTalk": {
+        "incoming": [
+            "XTalk",
+            "HyperTalk"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "SenseTalk"
+    },
+    "Simple_theory_of_types": {},
+    "Simscript": {},
+    "Simula": {
+        "incoming": [
+            "ALGOL_60",
+            "Simscript"
+        ],
+        "match": "True",
+        "outgoing": [
+            "List_of_object-oriented_programming_languages"
+        ],
+        "true_href": "Simula"
+    },
+    "Simula67": {
+        "incoming": [
+            "ALGOL_60",
+            "Simscript"
+        ],
+        "match": "False",
+        "outgoing": [
+            "List_of_object-oriented_programming_languages"
+        ],
+        "true_href": "Simula"
+    },
+    "Simula_67": {
+        "incoming": [
+            "ALGOL_60",
+            "Simscript"
+        ],
+        "match": "False",
+        "outgoing": [
+            "List_of_object-oriented_programming_languages"
+        ],
+        "true_href": "Simula"
+    },
+    "Sketchpad": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Sketchpad"
+    },
+    "SmallBasic": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "SmallBASIC"
+    },
+    "Smalltalk": {
+        "incoming": [
+            "Lisp_(programming_language)",
+            "Simula",
+            "Euler_(programming_language)",
+            "IMP_(programming_language)",
+            "Planner_(programming_language)",
+            "Logo_(programming_language)",
+            "Sketchpad",
+            "ARPAnet",
+            "Burroughs_B5000"
+        ],
+        "match": "True",
+        "outgoing": [
+            "AppleScript",
+            "Common_Lisp_Object_System",
+            "Dart_(programming_language)",
+            "Dylan_(programming_language)",
+            "Erlang_(programming_language)",
+            "Etoys_(programming_language)",
+            "Go_(programming_language)",
+            "Groovy_(programming_language)",
+            "Io_(programming_language)",
+            "Ioke_(programming_language)",
+            "Java_(programming_language)",
+            "Lasso_(programming_language)",
+            "Logtalk",
+            "Newspeak_(programming_language)",
+            "NewtonScript",
+            "Object_REXX",
+            "Objective-C",
+            "PHP",
+            "Python_(programming_language)",
+            "Raku_(programming_language)",
+            "Ruby_(programming_language)",
+            "Scala_(programming_language)",
+            "Scratch_(programming_language)",
+            "Self_(programming_language)",
+            "Swift_(programming_language)"
+        ],
+        "true_href": "Smalltalk"
+    },
+    "Snap!_(programming_language)": {
+        "incoming": [
+            "Scratch_(programming_language)",
+            "Scheme_(programming_language)",
+            "Logo_(programming_language)",
+            "Smalltalk"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Turtlestitch"
+        ],
+        "true_href": "Snap!_(programming_language)"
+    },
+    "Speakeasy_(computational_environment)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Speakeasy_(computational_environment)"
+    },
+    "Speedcoding": {
+        "incoming": [
+            "Assembly_language",
+            "Machine_code"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Fortran",
+            "ALGOL_58",
+            "BASIC",
+            "C_(programming_language)",
+            "PL/I",
+            "PACT_I",
+            "MUMPS",
+            "Ratfor"
+        ],
+        "true_href": "Speedcoding"
+    },
+    "Squeak": {
+        "incoming": [
+            "Smalltalk",
+            "Lisp_(programming_language)",
+            "Logo_(programming_language)",
+            "Sketchpad",
+            "Simula",
+            "Self_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Etoys_(programming_language)",
+            "Croquet_Project",
+            "Scratch_(programming_language)"
+        ],
+        "true_href": "Squeak"
+    },
+    "Squirrel_(programming_language)": {
+        "incoming": [
+            "C++",
+            "JavaScript",
+            "Lua_(programming_language)",
+            "Python_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Squirrel_(programming_language)"
+    },
+    "Stackless_Python": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Stackless_Python"
+    },
+    "Standard_ML": {
+        "incoming": [
+            "ML_(programming_language)",
+            "Hope_(programming_language)",
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Elm_(programming_language)",
+            "F_Sharp_(programming_language)",
+            "F*_(programming_language)",
+            "Haskell_(programming_language)",
+            "OCaml",
+            "Python_(programming_language)",
+            "Rust_(programming_language)",
+            "Scala_(programming_language)"
+        ],
+        "true_href": "Standard_ML"
+    },
+    "StarLogo": {
+        "incoming": [
+            "Logo_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "NetLogo",
+            "Etoys_(programming_language)"
+        ],
+        "true_href": "StarLogo"
+    },
+    "Steelman_language_requirements": {},
+    "Strand_(programming_language)": {},
+    "Strongtalk": {
+        "incoming": [
+            "Smalltalk",
+            "Self_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Java_(programming_language)",
+            "HotSpot_(virtual_machine)"
+        ],
+        "true_href": "Strongtalk"
+    },
+    "Structured_text": {},
+    "SubL": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Cyc"
+    },
+    "SuperCollider": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "SuperCollider"
+    },
+    "SuperTalk": {},
+    "Superplan": {
+        "incoming": [
+            "Plankalk\u00fcl"
+        ],
+        "match": "True",
+        "outgoing": [
+            "ALGOL_58"
+        ],
+        "true_href": "Superplan"
+    },
+    "Swift_(programming_language)": {
+        "incoming": [
+            "Objective-C",
+            "Rust_(programming_language)",
+            "Haskell_(programming_language)",
+            "Ruby_(programming_language)",
+            "Python_(programming_language)",
+            "C_Sharp_(programming_language)",
+            "CLU_(programming_language)",
+            "D_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Rust_(programming_language)"
+        ],
+        "true_href": "Swift_(programming_language)"
+    },
+    "Symbolic_Manipulation_Program": {},
+    "SystemVerilog": {
+        "incoming": [
+            "Verilog",
+            "VHDL",
+            "C++",
+            "OpenVera",
+            "Java_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "SystemVerilog"
+    },
+    "TELCOMP": {
+        "incoming": [
+            "JOSS"
+        ],
+        "match": "True",
+        "outgoing": [
+            "MUMPS"
+        ],
+        "true_href": "TELCOMP"
+    },
+    "TMG_(language)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [
+            "Donald_Knuth"
+        ],
+        "true_href": "TMG_(language)"
+    },
+    "TOM_(object-oriented_programming_language)": {},
+    "T_(programming_language)": {
+        "incoming": [
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "EuLisp",
+            "Joule_(programming_language)"
+        ],
+        "true_href": "T_(programming_language)"
+    },
+    "T_programming_language": {
+        "incoming": [
+            "Scheme_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "EuLisp",
+            "Joule_(programming_language)"
+        ],
+        "true_href": "T_(programming_language)"
+    },
+    "Tcl": {
+        "incoming": [
+            "AWK",
+            "Lisp_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "PHP",
+            "Windows_PowerShell",
+            "Tea_(programming_language)"
+        ],
+        "true_href": "Tcl"
+    },
+    "Tea_(programming_language)": {
+        "incoming": [
+            "Tcl",
+            "Java_(programming_language)",
+            "Scheme_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Tea_(programming_language)"
+    },
+    "Tk_(software)": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Tk_(software)"
+    },
+    "Trith_(programming_language)": {},
+    "Turing_(programming_language)": {
+        "incoming": [
+            "Euclid_(programming_language)",
+            "Pascal_(programming_language)",
+            "SP/k"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Turing_(programming_language)"
+    },
+    "Turing_Plus": {
+        "incoming": [
+            "Euclid_(programming_language)",
+            "Pascal_(programming_language)",
+            "SP/k"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Turing_(programming_language)"
+    },
+    "Turtlestitch": {
+        "incoming": [
+            "Snap!_(programming_language)",
+            "Scratch_(programming_language)",
+            "Logo_(programming_language)",
+            "Maker_culture"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Turtlestitch"
+    },
+    "Tymshare_SUPER_BASIC": {
+        "incoming": [
+            "Dartmouth_BASIC",
+            "JOSS",
+            "CAL_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "BASIC-PLUS"
+        ],
+        "true_href": "SUPER_BASIC"
+    },
+    "TypeScript": {
+        "incoming": [
+            "C_Sharp_(programming_language)",
+            "Java_(programming_language)",
+            "JavaScript",
+            "ActionScript"
+        ],
+        "match": "True",
+        "outgoing": [
+            "AtScript",
+            "AssemblyScript"
+        ],
+        "true_href": "TypeScript"
+    },
+    "UCSD_Pascal": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "UCSD_Pascal"
+    },
+    "UNICODE_(programming_language)": {},
+    "Unix_shell": {},
+    "VHDL": {
+        "incoming": [
+            "Ada_(programming_language)",
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "VHDL"
+    },
+    "Vala_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "C++",
+            "C_Sharp_(programming_language)",
+            "D_(programming_language)",
+            "Java_(programming_language)",
+            "Boo_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Vala_(programming_language)"
+    },
+    "Verilog": {
+        "incoming": [
+            "Pascal_(programming_language)",
+            "Ada_(programming_language)",
+            "C_(programming_language)",
+            "Fortran"
+        ],
+        "match": "True",
+        "outgoing": [
+            "SystemVerilog"
+        ],
+        "true_href": "Verilog"
+    },
+    "Vilnius_BASIC": {
+        "incoming": [
+            "MSX_BASIC"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Vilnius_BASIC"
+    },
+    "Visual_Basic": {},
+    "Visual_Basic_(classic)": {
+        "incoming": [
+            "BASIC"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Visual_Basic_.NET",
+            "Windows_Forms",
+            "Gambas",
+            "Xojo",
+            "Basic4ppc",
+            "Basic4android",
+            "NS_Basic"
+        ],
+        "true_href": "Visual_Basic_(classic)"
+    },
+    "Visual_Basic_.NET": {
+        "incoming": [
+            "Classic_Visual_Basic"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Microsoft_Small_Basic"
+        ],
+        "true_href": "Visual_Basic_.NET"
+    },
+    "Visual_J++": {},
+    "Visual_Prolog": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Visual_Prolog"
+    },
+    "Vue.js#Official_libraries": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Vue.js"
+    },
+    "WebAssembly": {
+        "incoming": [
+            "Asm.js",
+            "Google_Native_Client"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "WebAssembly"
+    },
+    "Whiley_(programming_language)": {
+        "incoming": [
+            "Java_(programming_language)",
+            "C_(programming_language)",
+            "Python_(programming_language)",
+            "Rust_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Whiley_(programming_language)"
+    },
+    "Wikipedia:Citation_needed": {},
+    "Windows_Forms": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Windows_Forms"
+    },
+    "Windows_PowerShell": {
+        "incoming": [
+            "Python_(programming_language)",
+            "KornShell",
+            "Perl",
+            "C_Sharp_(programming_language)",
+            "Control_Language",
+            "DIGITAL_Command_Language",
+            "SQL",
+            "Tcl",
+            "Tk_(software)",
+            "Chef_(software)",
+            "Puppet_(software)"
+        ],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "PowerShell"
+    },
+    "Wolfram_Language": {
+        "incoming": [
+            "APL_(programming_language)",
+            "C_(programming_language)",
+            "C++",
+            "FORTRAN",
+            "Lisp_(programming_language)",
+            "Pascal_(programming_language)",
+            "Prolog",
+            "Schoonschip",
+            "Simula",
+            "Smalltalk",
+            "Symbolic_Manipulation_Program"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Jupyter",
+            "Clojure",
+            "Julia_(programming_language)"
+        ],
+        "true_href": "Wolfram_Language"
+    },
+    "Wolfram_Mathematica": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Wolfram_Mathematica"
+    },
+    "XAML": {
+        "incoming": [],
+        "match": "False",
+        "outgoing": [],
+        "true_href": "Extensible_Application_Markup_Language"
+    },
+    "XBase": {},
+    "XPL": {},
+    "XSB": {
+        "incoming": [
+            "Prolog",
+            "PSB-Prolog",
+            "SB-Prolog"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "XSB"
+    },
+    "XTalk": {
+        "incoming": [
+            "Natural_language_programming",
+            "Pascal_(programming_language)"
+        ],
+        "match": "False",
+        "outgoing": [
+            "ActionScript",
+            "AppleScript",
+            "ECMAScript",
+            "JavaScript",
+            "Lingo_(programming_language)",
+            "LiveCode",
+            "SenseTalk",
+            "SuperTalk"
+        ],
+        "true_href": "HyperTalk"
+    },
+    "Xojo": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Xojo"
+    },
+    "YAML": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "YAML"
+    },
+    "ZPL_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [
+            "Chapel_(programming_language)"
+        ],
+        "true_href": "ZPL_(programming_language)"
+    },
+    "Z_notation": {},
+    "Zig_(programming_language)": {
+        "incoming": [
+            "C_(programming_language)",
+            "C++",
+            "LLVM_IR",
+            "Go_(programming_language)",
+            "Rust_(programming_language)",
+            "JavaScript",
+            "Wikipedia:Citation_needed"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Zig_(programming_language)"
+    },
+    "Zonnon": {
+        "incoming": [
+            "Oberon_(programming_language)",
+            "Pascal_(programming_language)"
+        ],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "Zonnon"
+    },
+    "tp://erights.org/history/original-e/index.html": {},
+    "tps://foldoc.org/Lean": {},
+    "tps://github.com/proebsting/goaldi": {},
+    "tps://shakti.com/": {},
+    "\u03a9mega": {
+        "incoming": [],
+        "match": "True",
+        "outgoing": [],
+        "true_href": "\u03a9mega"
+    }
+}
