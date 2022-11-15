@@ -129,3 +129,30 @@ def CSV_convert(name_string):
         index=False,
         sep="\t",
     )
+
+    print()
+    print(name_string)
+    print()
+    print("\tNodes\t\t\t")
+    print(
+        "\t\ttotal\t\t\t",
+        len(list_infobox) + len(list_no_infobox),
+    )
+    print(
+        "\t\twith infobox\t\t",
+        len(list_infobox),
+    )
+    print(
+        "\t\twithout infobox\t\t",
+        len(list_no_infobox),
+    )
+    print("\tEdges\t\t\t")
+    print(
+        "\t\tincoming graph\t\t",
+        len(directed_incoming),
+    )
+    print(
+        "\t\toutgoing graph\t\t",
+        len(directed_outgoing),
+    )
+    print()
